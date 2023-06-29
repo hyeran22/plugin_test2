@@ -1435,8 +1435,8 @@
     "selectedTokenSets": {
       "01_ssg/default": "enabled",
       "01_ssg/button": "enabled",
-      "03_site": "enabled",
-      "04_delivery": "enabled"
+      "04_delivery": "enabled",
+      "source/03_site": "enabled"
     },
     "group": "mall",
     "$figmaCollectionId": "VariableCollectionId:13165:58455",
@@ -1708,8 +1708,8 @@
     "selectedTokenSets": {
       "01_ssg/default": "enabled",
       "01_ssg/button": "enabled",
-      "03_site": "enabled",
-      "04_delivery": "enabled"
+      "04_delivery": "enabled",
+      "source/03_site": "enabled"
     },
     "group": "mall",
     "$figmaCollectionId": "VariableCollectionId:13165:58455",
