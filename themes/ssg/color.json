@@ -1,0 +1,152 @@
+{
+  "01_ssg": {
+    "brand": {
+      "value": "linear-gradient(270deg, #be3ffa 0%, #f43479 40.65%, #f43479 58.41%, #fc6c40 100%)",
+      "type": "color",
+      "description": "- 상세 옵션바 버튼\n- 앱바 터치 색상 (영역 터치 시 잠깐 노출)"
+    },
+    "accent": {
+      "primary_light": {
+        "value": "#FFECEC",
+        "type": "color",
+        "description": "- 정보 강조와 연관된 내용의 배경 영역이 필요한 경우"
+      },
+      "primary": {
+        "value": "#ff3e3e",
+        "type": "color",
+        "description": "1. 정보강조\n- 제일 강조하고자 하는 정보\n- 결정적인 행동을 유도하는 CTA 버튼\n- 강조 효과가 필요한 알림이나 라벨, 뱃지에 포인트\n\n2. 선택된 상태"
+      },
+      "primary_dark": {
+        "value": "#CC2222",
+        "type": "color"
+      },
+      "secondary_light": {
+        "value": "#F5EDFF",
+        "type": "color",
+        "description": "- 정보 강조와 연관된 내용의 배경 영역이 필요한 경우 "
+      },
+      "secondary": {
+        "value": "#8807f3",
+        "type": "color",
+        "description": "-  정보강조 : Primary 컬러 다음으로 우선순위에 적용"
+      },
+      "secondary_dark": {
+        "value": "#6605B6",
+        "type": "color"
+      },
+      "secondary_gradient": {
+        "value": "linear-gradient(90deg, #BE3FFA 0%, #8C0BF4 59.37%, #8807F3 100%)",
+        "type": "color",
+        "description": "- 공통 영역의 툴팁\n- 프로그레스 바"
+      }
+    },
+    "netural": {
+      "white": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "black": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "gray100": {
+        "value": "#fafafa",
+        "type": "color"
+      },
+      "gray150": {
+        "value": "#f5f5f5",
+        "type": "color"
+      },
+      "gray200": {
+        "value": "#f0f0f0",
+        "type": "color"
+      },
+      "gray300": {
+        "value": "#e5e5e5",
+        "type": "color"
+      },
+      "gray350": {
+        "value": "#cfcfcf",
+        "type": "color"
+      },
+      "gray400": {
+        "value": "#969696",
+        "type": "color"
+      },
+      "gray500": {
+        "value": "#888888",
+        "type": "color"
+      },
+      "gray600": {
+        "value": "#777777",
+        "type": "color"
+      },
+      "gray700": {
+        "value": "#666666",
+        "type": "color"
+      },
+      "gray800": {
+        "value": "#444444",
+        "type": "color"
+      },
+      "gray900": {
+        "value": "#222222",
+        "type": "color"
+      },
+      "dim": {
+        "black_alpha95": {
+          "value": "#000000f2",
+          "type": "color",
+          "description": "- 상품 모듈 매장 픽업 드롭다운"
+        },
+        "black_alpha80": {
+          "value": "#000000cc",
+          "type": "color",
+          "description": "- 상품 상세 쓱렌즈 버튼  \n- 몰이동 레이어"
+        },
+        "black_alpha60": {
+          "value": "#00000099",
+          "type": "color",
+          "description": "- 토스트 팝업 배경색\n- 기본 팝업/ 바텀 시트 레이어"
+        },
+        "black_alpha45": {
+          "value": "#00000073",
+          "type": "color",
+          "description": "- 배너 컨트롤러, 페이지네이션\n- 상품 유닛 이미지 위에 올라가는 버튼"
+        },
+        "black_alpha20": {
+          "value": "#00000033",
+          "type": "color",
+          "description": "- 밝은 영역에 적용했을때 버튼이 너무 어두워보이는 경우 (ex. 메인 롤링배너 좌측 동영상 버튼)"
+        },
+        "black_alpha3": {
+          "value": "#00000008",
+          "type": "color",
+          "description": "- 상품, 배너 이미지에 영역 구분이 필요한 경우"
+        }
+      }
+    },
+    "semantic": {
+      "warning": {
+        "value": "#FF5F04",
+        "type": "color",
+        "description": "- 안내 문구 중 경고의 성격을 띄고 있는 문구\n- 에러를 상태를 나타내는 경우"
+      },
+      "warning_loss": {
+        "value": "#ff3e3e",
+        "type": "color",
+        "description": "- 경고 문구중 금전적인 손해가 발생하는 부분"
+      },
+      "positive": {
+        "value": "#178AFF",
+        "type": "color",
+        "description": "- 긍정적인 의미의 컬러\n- 링크버튼(텍스트버튼)"
+      },
+      "success": {
+        "value": "#07A740",
+        "type": "color",
+        "description": "- 성공 의미의 컬러"
+      }
+    }
+  }
+}

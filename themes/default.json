@@ -1,0 +1,308 @@
+{
+  "icon_size": {
+    "2xs": {
+      "value": "12",
+      "type": "sizing",
+      "description": "- Stroke weight : 0.6\n- Corners : 1.8"
+    },
+    "xs": {
+      "value": "16",
+      "type": "sizing",
+      "description": "- Stroke weight : 0.8\n- Corners : 2.4"
+    },
+    "sm": {
+      "value": "20",
+      "type": "sizing",
+      "description": "- Stroke weight : 1\n- Corners : 3"
+    },
+    "md": {
+      "value": "24",
+      "type": "sizing",
+      "description": "- Stroke weight : 1.2\n- Corners : 3.6"
+    },
+    "lg": {
+      "value": "28",
+      "type": "sizing",
+      "description": "- Stroke weight : 1.4\n- Corners : 4.2"
+    },
+    "xl": {
+      "value": "32",
+      "type": "sizing"
+    }
+  },
+  "space": {
+    "1": {
+      "value": "1px",
+      "type": "spacing",
+      "description": "space_0.25, \n0.063rem"
+    },
+    "2": {
+      "value": "2px",
+      "type": "spacing",
+      "description": "space_0.5, \n0.125rem"
+    },
+    "4": {
+      "value": "4px",
+      "type": "spacing",
+      "description": "space_1,\n0.25rem"
+    },
+    "6": {
+      "value": "6px",
+      "type": "spacing",
+      "description": "space_1.5, \n0.375rem"
+    },
+    "8": {
+      "value": "8px",
+      "type": "spacing",
+      "description": "space_2,\n0.5rem"
+    },
+    "10": {
+      "value": "10px",
+      "type": "spacing",
+      "description": "space_2.5, \n0.625rem"
+    },
+    "12": {
+      "value": "12px",
+      "type": "spacing",
+      "description": "space_3,\n0.75rem"
+    },
+    "16": {
+      "value": "16px",
+      "type": "spacing",
+      "description": "space_4, \n1rem"
+    },
+    "20": {
+      "value": "20px",
+      "type": "spacing",
+      "description": "space_5\n1.25rem"
+    },
+    "24": {
+      "value": "24px",
+      "type": "spacing",
+      "description": "space_6,\n1.5rem"
+    },
+    "28": {
+      "value": "28px",
+      "type": "spacing",
+      "description": "space_7,\n1.75rem"
+    },
+    "30": {
+      "value": "30px",
+      "type": "spacing",
+      "description": "space_7.5,\n1.875rem"
+    },
+    "32": {
+      "value": "32px",
+      "type": "spacing",
+      "description": "space_8,\n2rem"
+    },
+    "40": {
+      "value": "40px",
+      "type": "spacing",
+      "description": "space_10\n2.5rem"
+    },
+    "50": {
+      "value": "50px",
+      "type": "spacing",
+      "description": "space_12.5,\n3.125rem"
+    },
+    "60": {
+      "value": "60px",
+      "type": "spacing",
+      "description": "space_15,\n3.75rem"
+    }
+  },
+  "radius": {
+    "2": {
+      "value": "2px",
+      "type": "borderRadius"
+    },
+    "4": {
+      "value": "4px",
+      "type": "borderRadius"
+    },
+    "6": {
+      "value": "6px",
+      "type": "borderRadius"
+    },
+    "8": {
+      "value": "8px",
+      "type": "borderRadius"
+    },
+    "10": {
+      "value": "10px",
+      "type": "borderRadius"
+    },
+    "16": {
+      "value": "16px",
+      "type": "borderRadius"
+    },
+    "20": {
+      "value": "20px",
+      "type": "borderRadius"
+    },
+    "none": {
+      "value": "0px",
+      "type": "borderRadius"
+    }
+  },
+  "border_width": {
+    "1": {
+      "value": "1px",
+      "type": "borderWidth",
+      "description": "1px solid"
+    },
+    "2": {
+      "value": "2px",
+      "type": "borderWidth",
+      "description": "2px solid"
+    },
+    "none": {
+      "value": "0",
+      "type": "borderWidth"
+    }
+  },
+  "opacity": {
+    "3": {
+      "value": "3%",
+      "type": "opacity"
+    },
+    "20": {
+      "value": "20%",
+      "type": "opacity"
+    },
+    "45": {
+      "value": "45%",
+      "type": "opacity"
+    },
+    "60": {
+      "value": "60%",
+      "type": "opacity"
+    },
+    "80": {
+      "value": "80%",
+      "type": "opacity"
+    },
+    "95": {
+      "value": "95%",
+      "type": "opacity"
+    }
+  },
+  "fontfamily": {
+    "SSG comb": {
+      "value": "SSG comb",
+      "type": "fontFamilies",
+      "description": "국문(Apple SD Gothic Neo) + 영문,숫자(Roboto) 조합하여 만든 폰트"
+    },
+    "Rubik-Number": {
+      "value": "Rubik-Number",
+      "type": "fontFamilies",
+      "description": "신세계백화점 금액, 할인율 표기"
+    },
+    "Didot": {
+      "value": "Didot",
+      "type": "fontFamilies",
+      "description": "신세계백화점 타이틀영역 영문,숫자는 Didot폰트로 표기 "
+    }
+  },
+  "fontweight": {
+    "regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "medium": {
+      "value": "Medium",
+      "type": "fontWeights"
+    },
+    "bold": {
+      "value": "Bold",
+      "type": "fontWeights"
+    }
+  },
+  "fontsize": {
+    "3xs": {
+      "value": "10",
+      "type": "fontSizes",
+      "description": "0.625rem"
+    },
+    "2xs": {
+      "value": "11",
+      "type": "fontSizes",
+      "description": "0.688rem"
+    },
+    "xs": {
+      "value": "12",
+      "type": "fontSizes",
+      "description": "0.75rem"
+    },
+    "sm": {
+      "value": "13",
+      "type": "fontSizes",
+      "description": "0.813rem"
+    },
+    "md": {
+      "value": "14",
+      "type": "fontSizes",
+      "description": "0.875rem"
+    },
+    "lg": {
+      "value": "15",
+      "type": "fontSizes",
+      "description": "0.938rem"
+    },
+    "xl": {
+      "value": "16",
+      "type": "fontSizes",
+      "description": "1rem"
+    },
+    "2xl": {
+      "value": "18",
+      "type": "fontSizes",
+      "description": "1.125rem"
+    },
+    "3xl": {
+      "value": "20",
+      "type": "fontSizes",
+      "description": "1.25rem"
+    },
+    "4xl": {
+      "value": "24",
+      "type": "fontSizes",
+      "description": "1.5rem"
+    },
+    "5xl": {
+      "value": "28",
+      "type": "fontSizes",
+      "description": "1.75rem"
+    },
+    "6xl": {
+      "value": "30",
+      "type": "fontSizes",
+      "description": "1.875rem"
+    },
+    "7xl": {
+      "value": "34",
+      "type": "fontSizes",
+      "description": "2.125rem"
+    },
+    "8xl": {
+      "value": "40",
+      "type": "fontSizes",
+      "description": "2.5rem"
+    }
+  },
+  "textdecoration": {
+    "none": {
+      "value": "none",
+      "type": "textDecoration"
+    },
+    "underline": {
+      "value": "underline",
+      "type": "textDecoration"
+    },
+    "line-through": {
+      "value": "line-through",
+      "type": "textDecoration"
+    }
+  }
+}
