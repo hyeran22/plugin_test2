@@ -840,8 +840,7 @@
       "ssg/content": "enabled",
       "etc/04_delivery": "enabled",
       "default": "source",
-      "ssg/color": "enabled",
-      "emart/color": "disabled"
+      "ssg/color": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:13165:58455",
     "$figmaModeId": "13165:0",
@@ -1342,7 +1341,6 @@
     "selectedTokenSets": {
       "etc/04_delivery": "enabled",
       "default": "source",
-      "ssg/color": "disabled",
       "emart/color": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:13165:58455",
@@ -1604,8 +1602,7 @@
       "etc/03_site": "enabled",
       "etc/04_delivery": "enabled",
       "default": "source",
-      "ssg/color": "enabled",
-      "emart/color": "disabled"
+      "ssg/color": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:13165:58455",
     "$figmaModeId": "13165:2",
@@ -1880,8 +1877,7 @@
       "etc/03_site": "enabled",
       "etc/04_delivery": "enabled",
       "default": "source",
-      "ssg/color": "enabled",
-      "emart/color": "disabled"
+      "ssg/color": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:13165:58455",
     "$figmaModeId": "13165:3",
@@ -2151,9 +2147,7 @@
     "name": "universeclub",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "etc/05_service": "enabled",
-      "ssg/color": "disabled",
-      "emart/color": "disabled"
+      "etc/05_service": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:13165:58758",
     "$figmaModeId": "13165:4",
@@ -2400,9 +2394,7 @@
     "name": "present",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "etc/05_service": "enabled",
-      "ssg/color": "disabled",
-      "emart/color": "disabled"
+      "etc/05_service": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:13165:58758",
     "$figmaModeId": "13165:5",

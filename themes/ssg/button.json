@@ -1,947 +1,5 @@
 {
-  "btn_height": {
-    "2xs": {
-      "value": "20",
-      "type": "sizing"
-    },
-    "xs": {
-      "value": "24",
-      "type": "sizing"
-    },
-    "sm": {
-      "value": "28",
-      "type": "sizing"
-    },
-    "md": {
-      "value": "32",
-      "type": "sizing"
-    },
-    "lg": {
-      "value": "36",
-      "type": "sizing"
-    },
-    "xl": {
-      "value": "40",
-      "type": "sizing"
-    },
-    "2xl": {
-      "value": "52",
-      "type": "sizing"
-    },
-    "3xl": {
-      "value": "60",
-      "type": "sizing"
-    }
-  },
-  "btn_icon_size": {
-    "solid": {
-      "2xs": {
-        "value": "{icon_size.2xs}",
-        "type": "sizing"
-      },
-      "xs": {
-        "value": "{icon_size.xs}",
-        "type": "sizing"
-      },
-      "sm": {
-        "value": "{icon_size.xs}",
-        "type": "sizing"
-      },
-      "md": {
-        "value": "{icon_size.xs}",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "{icon_size.xs}",
-        "type": "sizing"
-      },
-      "xl": {
-        "value": "{icon_size.xs}",
-        "type": "sizing"
-      },
-      "2xl": {
-        "value": "{icon_size.sm}",
-        "type": "sizing"
-      },
-      "3xl": {
-        "value": "{icon_size.md}",
-        "type": "sizing"
-      }
-    },
-    "outline": {
-      "2xs": {
-        "value": "{icon_size.2xs}",
-        "type": "sizing"
-      },
-      "xs": {
-        "value": "{icon_size.xs}",
-        "type": "sizing"
-      },
-      "sm": {
-        "value": "{icon_size.xs}",
-        "type": "sizing"
-      },
-      "md": {
-        "value": "{icon_size.xs}",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "{icon_size.xs}",
-        "type": "sizing"
-      },
-      "xl": {
-        "value": "{icon_size.xs}",
-        "type": "sizing"
-      },
-      "2xl": {
-        "value": "{icon_size.sm}",
-        "type": "sizing"
-      },
-      "3xl": {
-        "value": "{icon_size.md}",
-        "type": "sizing"
-      }
-    },
-    "text": {
-      "2xs": {
-        "value": "{icon_size.2xs}",
-        "type": "sizing"
-      },
-      "xs": {
-        "value": "{icon_size.xs}",
-        "type": "sizing"
-      },
-      "sm": {
-        "value": "{icon_size.xs}",
-        "type": "sizing"
-      },
-      "md": {
-        "value": "{icon_size.xs}",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "{icon_size.xs}",
-        "type": "sizing"
-      },
-      "xl": {
-        "value": "{icon_size.sm}",
-        "type": "sizing"
-      },
-      "2xl": {
-        "value": "{icon_size.md}",
-        "type": "sizing"
-      }
-    },
-    "icon": {
-      "2xs": {
-        "value": "{icon_size.2xs}",
-        "type": "sizing"
-      },
-      "xs": {
-        "value": "{icon_size.xs}",
-        "type": "sizing"
-      },
-      "sm": {
-        "value": "{icon_size.sm}",
-        "type": "sizing"
-      },
-      "md": {
-        "value": "{icon_size.md}",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "{icon_size.lg}",
-        "type": "sizing"
-      },
-      "xl": {
-        "value": "{icon_size.xl}",
-        "type": "sizing"
-      },
-      "2xl": {
-        "value": "{icon_size.xl}",
-        "type": "sizing"
-      }
-    }
-  },
-  "btn": {
-    "horizontal": {
-      "2xs": {
-        "value": "{space.12}",
-        "type": "spacing"
-      },
-      "xs": {
-        "value": "{space.12}",
-        "type": "spacing"
-      },
-      "sm": {
-        "value": "{space.12}",
-        "type": "spacing"
-      },
-      "md": {
-        "value": "{space.12}",
-        "type": "spacing"
-      },
-      "lg": {
-        "value": "{space.12}",
-        "type": "spacing"
-      },
-      "xl": {
-        "value": "{space.12}",
-        "type": "spacing"
-      },
-      "2xl": {
-        "value": "{space.12}",
-        "type": "spacing"
-      },
-      "3xl": {
-        "value": "{space.12}",
-        "type": "spacing"
-      }
-    },
-    "spacing": {
-      "2xs": {
-        "value": "{space.4}",
-        "type": "spacing"
-      },
-      "xs": {
-        "value": "{space.4}",
-        "type": "spacing"
-      },
-      "sm": {
-        "value": "{space.4}",
-        "type": "spacing"
-      },
-      "md": {
-        "value": "{space.4}",
-        "type": "spacing"
-      },
-      "lg": {
-        "value": "{space.4}",
-        "type": "spacing"
-      },
-      "xl": {
-        "value": "{space.4}",
-        "type": "spacing"
-      },
-      "2xl": {
-        "value": "{space.10}",
-        "type": "spacing"
-      }
-    },
-    "solid_btn": {
-      "medium": {
-        "2xs": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.medium}",
-            "lineHeight": "",
-            "fontSize": "{fontsize.2xs}",
-            "letterSpacing": "",
-            "paragraphSpacing": "",
-            "paragraphIndent": "",
-            "textCase": "",
-            "textDecoration": ""
-          },
-          "type": "typography"
-        },
-        "xs": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.medium}",
-            "lineHeight": "",
-            "fontSize": "{fontsize.xs}",
-            "letterSpacing": "",
-            "paragraphSpacing": "",
-            "paragraphIndent": "",
-            "textCase": "",
-            "textDecoration": ""
-          },
-          "type": "typography"
-        },
-        "sm": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.medium}",
-            "lineHeight": "",
-            "fontSize": "{fontsize.sm}",
-            "letterSpacing": "",
-            "paragraphSpacing": "",
-            "paragraphIndent": "",
-            "textCase": "",
-            "textDecoration": ""
-          },
-          "type": "typography"
-        },
-        "md": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.medium}",
-            "lineHeight": "",
-            "fontSize": "{fontsize.sm}",
-            "letterSpacing": "",
-            "paragraphSpacing": "",
-            "paragraphIndent": "",
-            "textCase": "",
-            "textDecoration": ""
-          },
-          "type": "typography"
-        },
-        "lg": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.medium}",
-            "lineHeight": "",
-            "fontSize": "{fontsize.sm}",
-            "letterSpacing": "",
-            "paragraphSpacing": "",
-            "paragraphIndent": "",
-            "textCase": "",
-            "textDecoration": ""
-          },
-          "type": "typography"
-        },
-        "xl": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.medium}",
-            "lineHeight": "",
-            "fontSize": "{fontsize.md}",
-            "letterSpacing": "",
-            "paragraphSpacing": "",
-            "paragraphIndent": "",
-            "textCase": "",
-            "textDecoration": ""
-          },
-          "type": "typography"
-        },
-        "2xl": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.medium}",
-            "lineHeight": "",
-            "fontSize": "{fontsize.xl}",
-            "letterSpacing": "",
-            "paragraphSpacing": "",
-            "paragraphIndent": "",
-            "textCase": "",
-            "textDecoration": ""
-          },
-          "type": "typography"
-        },
-        "3xl": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.medium}",
-            "lineHeight": "",
-            "fontSize": "{fontsize.3xl}",
-            "letterSpacing": "",
-            "paragraphSpacing": "",
-            "paragraphIndent": "",
-            "textCase": "",
-            "textDecoration": ""
-          },
-          "type": "typography"
-        }
-      },
-      "bold": {
-        "2xs": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.bold}",
-            "lineHeight": "",
-            "fontSize": "{fontsize.2xs}",
-            "letterSpacing": "",
-            "paragraphSpacing": "",
-            "paragraphIndent": "",
-            "textCase": "",
-            "textDecoration": ""
-          },
-          "type": "typography"
-        },
-        "xs": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.bold}",
-            "lineHeight": "",
-            "fontSize": "{fontsize.xs}",
-            "letterSpacing": "",
-            "paragraphSpacing": "",
-            "paragraphIndent": "",
-            "textCase": "",
-            "textDecoration": ""
-          },
-          "type": "typography"
-        },
-        "sm": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.bold}",
-            "lineHeight": "",
-            "fontSize": "{fontsize.sm}",
-            "letterSpacing": "",
-            "paragraphSpacing": "",
-            "paragraphIndent": "",
-            "textCase": "",
-            "textDecoration": ""
-          },
-          "type": "typography"
-        },
-        "md": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.bold}",
-            "lineHeight": "",
-            "fontSize": "{fontsize.sm}",
-            "letterSpacing": "",
-            "paragraphSpacing": "",
-            "paragraphIndent": "",
-            "textCase": "",
-            "textDecoration": ""
-          },
-          "type": "typography"
-        },
-        "lg": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.bold}",
-            "lineHeight": "",
-            "fontSize": "{fontsize.sm}",
-            "letterSpacing": "",
-            "paragraphSpacing": "",
-            "paragraphIndent": "",
-            "textCase": "",
-            "textDecoration": ""
-          },
-          "type": "typography"
-        },
-        "xl": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.bold}",
-            "lineHeight": "",
-            "fontSize": "{fontsize.md}",
-            "letterSpacing": "",
-            "paragraphSpacing": "",
-            "paragraphIndent": "",
-            "textCase": "",
-            "textDecoration": ""
-          },
-          "type": "typography"
-        },
-        "2xl": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.bold}",
-            "lineHeight": "",
-            "fontSize": "{fontsize.xl}",
-            "letterSpacing": "",
-            "paragraphSpacing": "",
-            "paragraphIndent": "",
-            "textCase": "",
-            "textDecoration": ""
-          },
-          "type": "typography"
-        },
-        "3xl": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.bold}",
-            "lineHeight": "",
-            "fontSize": "{fontsize.2xl}",
-            "letterSpacing": "",
-            "paragraphSpacing": "",
-            "paragraphIndent": "",
-            "textCase": "",
-            "textDecoration": ""
-          },
-          "type": "typography"
-        }
-      }
-    },
-    "outline_btn": {
-      "medium": {
-        "2xs": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.medium}",
-            "lineHeight": "",
-            "fontSize": "{fontsize.2xs}",
-            "letterSpacing": "",
-            "paragraphSpacing": "",
-            "paragraphIndent": "",
-            "textCase": "",
-            "textDecoration": ""
-          },
-          "type": "typography"
-        },
-        "xs": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.medium}",
-            "lineHeight": "",
-            "fontSize": "{fontsize.xs}",
-            "letterSpacing": "",
-            "paragraphSpacing": "",
-            "paragraphIndent": "",
-            "textCase": "",
-            "textDecoration": ""
-          },
-          "type": "typography"
-        },
-        "sm": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.medium}",
-            "lineHeight": "",
-            "fontSize": "{fontsize.sm}",
-            "letterSpacing": "",
-            "paragraphSpacing": "",
-            "paragraphIndent": "",
-            "textCase": "",
-            "textDecoration": ""
-          },
-          "type": "typography"
-        },
-        "md": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.medium}",
-            "lineHeight": "",
-            "fontSize": "{fontsize.sm}",
-            "letterSpacing": "",
-            "paragraphSpacing": "",
-            "paragraphIndent": "",
-            "textCase": "",
-            "textDecoration": ""
-          },
-          "type": "typography"
-        },
-        "lg": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.medium}",
-            "lineHeight": "",
-            "fontSize": "{fontsize.sm}",
-            "letterSpacing": "",
-            "paragraphSpacing": "",
-            "paragraphIndent": "",
-            "textCase": "",
-            "textDecoration": ""
-          },
-          "type": "typography"
-        },
-        "xl": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.medium}",
-            "lineHeight": "",
-            "fontSize": "{fontsize.md}",
-            "letterSpacing": "",
-            "paragraphSpacing": "",
-            "paragraphIndent": "",
-            "textCase": "",
-            "textDecoration": ""
-          },
-          "type": "typography"
-        },
-        "2xl": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.medium}",
-            "lineHeight": "",
-            "fontSize": "{fontsize.xl}",
-            "letterSpacing": "",
-            "paragraphSpacing": "",
-            "paragraphIndent": "",
-            "textCase": "",
-            "textDecoration": ""
-          },
-          "type": "typography"
-        },
-        "3xl": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.medium}",
-            "lineHeight": "",
-            "fontSize": "{fontsize.3xl}",
-            "letterSpacing": "",
-            "paragraphSpacing": "",
-            "paragraphIndent": "",
-            "textCase": "",
-            "textDecoration": ""
-          },
-          "type": "typography"
-        }
-      },
-      "bold": {
-        "2xs": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.bold}",
-            "lineHeight": "",
-            "fontSize": "{fontsize.2xs}",
-            "letterSpacing": "",
-            "paragraphSpacing": "",
-            "paragraphIndent": "",
-            "textCase": "",
-            "textDecoration": ""
-          },
-          "type": "typography"
-        },
-        "xs": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.bold}",
-            "lineHeight": "",
-            "fontSize": "{fontsize.xs}",
-            "letterSpacing": "",
-            "paragraphSpacing": "",
-            "paragraphIndent": "",
-            "textCase": "",
-            "textDecoration": ""
-          },
-          "type": "typography"
-        },
-        "sm": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.bold}",
-            "lineHeight": "",
-            "fontSize": "{fontsize.sm}",
-            "letterSpacing": "",
-            "paragraphSpacing": "",
-            "paragraphIndent": "",
-            "textCase": "",
-            "textDecoration": ""
-          },
-          "type": "typography"
-        },
-        "md": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.bold}",
-            "lineHeight": "",
-            "fontSize": "{fontsize.sm}",
-            "letterSpacing": "",
-            "paragraphSpacing": "",
-            "paragraphIndent": "",
-            "textCase": "",
-            "textDecoration": ""
-          },
-          "type": "typography"
-        },
-        "lg": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.bold}",
-            "lineHeight": "",
-            "fontSize": "{fontsize.sm}",
-            "letterSpacing": "",
-            "paragraphSpacing": "",
-            "paragraphIndent": "",
-            "textCase": "",
-            "textDecoration": ""
-          },
-          "type": "typography"
-        },
-        "xl": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.bold}",
-            "lineHeight": "",
-            "fontSize": "{fontsize.md}",
-            "letterSpacing": "",
-            "paragraphSpacing": "",
-            "paragraphIndent": "",
-            "textCase": "",
-            "textDecoration": ""
-          },
-          "type": "typography"
-        },
-        "2xl": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.bold}",
-            "lineHeight": "",
-            "fontSize": "{fontsize.xl}",
-            "letterSpacing": "",
-            "paragraphSpacing": "",
-            "paragraphIndent": "",
-            "textCase": "",
-            "textDecoration": ""
-          },
-          "type": "typography"
-        },
-        "3xl": {
-          "value": {
-            "fontFamily": "{fontfamily.SSG comb}",
-            "fontWeight": "{fontweight.bold}",
-            "lineHeight": "",
-            "fontSize": "{fontsize.2xl}",
-            "letterSpacing": "",
-            "paragraphSpacing": "",
-            "paragraphIndent": "",
-            "textCase": "",
-            "textDecoration": ""
-          },
-          "type": "typography"
-        }
-      }
-    },
-    "text_btn": {
-      "medium": {
-        "none": {
-          "2xs": {
-            "value": {
-              "fontFamily": "{fontfamily.SSG comb}",
-              "fontWeight": "{fontweight.medium}",
-              "fontSize": "{fontsize.2xs}"
-            },
-            "type": "typography"
-          },
-          "xs": {
-            "value": {
-              "fontFamily": "{fontfamily.SSG comb}",
-              "fontWeight": "{fontweight.medium}",
-              "fontSize": "{fontsize.xs}"
-            },
-            "type": "typography"
-          },
-          "sm": {
-            "value": {
-              "fontFamily": "{fontfamily.SSG comb}",
-              "fontWeight": "{fontweight.medium}",
-              "fontSize": "{fontsize.sm}"
-            },
-            "type": "typography"
-          },
-          "md": {
-            "value": {
-              "fontFamily": "{fontfamily.SSG comb}",
-              "fontWeight": "{fontweight.medium}",
-              "fontSize": "{fontsize.md}"
-            },
-            "type": "typography"
-          },
-          "lg": {
-            "value": {
-              "fontFamily": "{fontfamily.SSG comb}",
-              "fontWeight": "{fontweight.medium}",
-              "fontSize": "{fontsize.lg}"
-            },
-            "type": "typography"
-          },
-          "xl": {
-            "value": {
-              "fontFamily": "{fontfamily.SSG comb}",
-              "fontWeight": "{fontweight.medium}",
-              "fontSize": "{fontsize.xl}"
-            },
-            "type": "typography"
-          },
-          "2xl": {
-            "value": {
-              "fontFamily": "{fontfamily.SSG comb}",
-              "fontWeight": "{fontweight.medium}",
-              "fontSize": "{fontsize.2xl}"
-            },
-            "type": "typography"
-          }
-        },
-        "underline": {
-          "2xs": {
-            "value": {
-              "fontFamily": "{fontfamily.SSG comb}",
-              "fontWeight": "{fontweight.medium}",
-              "fontSize": "{fontsize.2xs}",
-              "textDecoration": "{textdecoration.underline}"
-            },
-            "type": "typography"
-          },
-          "xs": {
-            "value": {
-              "fontFamily": "{fontfamily.SSG comb}",
-              "fontWeight": "{fontweight.medium}",
-              "fontSize": "{fontsize.xs}",
-              "textDecoration": "{textdecoration.underline}"
-            },
-            "type": "typography"
-          },
-          "sm": {
-            "value": {
-              "fontFamily": "{fontfamily.SSG comb}",
-              "fontWeight": "{fontweight.medium}",
-              "fontSize": "{fontsize.sm}",
-              "textDecoration": "{textdecoration.underline}"
-            },
-            "type": "typography"
-          },
-          "md": {
-            "value": {
-              "fontFamily": "{fontfamily.SSG comb}",
-              "fontWeight": "{fontweight.medium}",
-              "fontSize": "{fontsize.md}",
-              "textDecoration": "{textdecoration.underline}"
-            },
-            "type": "typography"
-          },
-          "lg": {
-            "value": {
-              "fontFamily": "{fontfamily.SSG comb}",
-              "fontWeight": "{fontweight.medium}",
-              "fontSize": "{fontsize.lg}",
-              "textDecoration": "{textdecoration.underline}"
-            },
-            "type": "typography"
-          },
-          "xl": {
-            "value": {
-              "fontFamily": "{fontfamily.SSG comb}",
-              "fontWeight": "{fontweight.medium}",
-              "fontSize": "{fontsize.xl}",
-              "textDecoration": "{textdecoration.underline}"
-            },
-            "type": "typography"
-          },
-          "2xl": {
-            "value": {
-              "fontFamily": "{fontfamily.SSG comb}",
-              "fontWeight": "{fontweight.medium}",
-              "fontSize": "{fontsize.2xl}",
-              "textDecoration": "{textdecoration.underline}"
-            },
-            "type": "typography"
-          }
-        }
-      },
-      "bold": {
-        "none": {
-          "2xs": {
-            "value": {
-              "fontFamily": "{fontfamily.SSG comb}",
-              "fontWeight": "{fontweight.bold}",
-              "fontSize": "{fontsize.2xs}"
-            },
-            "type": "typography"
-          },
-          "xs": {
-            "value": {
-              "fontFamily": "{fontfamily.SSG comb}",
-              "fontWeight": "{fontweight.bold}",
-              "fontSize": "{fontsize.xs}"
-            },
-            "type": "typography"
-          },
-          "sm": {
-            "value": {
-              "fontFamily": "{fontfamily.SSG comb}",
-              "fontWeight": "{fontweight.bold}",
-              "fontSize": "{fontsize.sm}"
-            },
-            "type": "typography"
-          },
-          "md": {
-            "value": {
-              "fontFamily": "{fontfamily.SSG comb}",
-              "fontWeight": "{fontweight.bold}",
-              "fontSize": "{fontsize.md}"
-            },
-            "type": "typography"
-          },
-          "lg": {
-            "value": {
-              "fontFamily": "{fontfamily.SSG comb}",
-              "fontWeight": "{fontweight.bold}",
-              "fontSize": "{fontsize.lg}"
-            },
-            "type": "typography"
-          },
-          "xl": {
-            "value": {
-              "fontFamily": "{fontfamily.SSG comb}",
-              "fontWeight": "{fontweight.bold}",
-              "fontSize": "{fontsize.xl}"
-            },
-            "type": "typography"
-          },
-          "2xl": {
-            "value": {
-              "fontFamily": "{fontfamily.SSG comb}",
-              "fontWeight": "{fontweight.bold}",
-              "fontSize": "{fontsize.2xl}"
-            },
-            "type": "typography"
-          }
-        },
-        "underline": {
-          "2xs": {
-            "value": {
-              "fontFamily": "{fontfamily.SSG comb}",
-              "fontWeight": "{fontweight.bold}",
-              "fontSize": "{fontsize.2xs}",
-              "textDecoration": "{textdecoration.underline}"
-            },
-            "type": "typography"
-          },
-          "xs": {
-            "value": {
-              "fontFamily": "{fontfamily.SSG comb}",
-              "fontWeight": "{fontweight.bold}",
-              "fontSize": "{fontsize.xs}",
-              "textDecoration": "{textdecoration.underline}"
-            },
-            "type": "typography"
-          },
-          "sm": {
-            "value": {
-              "fontFamily": "{fontfamily.SSG comb}",
-              "fontWeight": "{fontweight.bold}",
-              "fontSize": "{fontsize.sm}",
-              "textDecoration": "{textdecoration.underline}"
-            },
-            "type": "typography"
-          },
-          "md": {
-            "value": {
-              "fontFamily": "{fontfamily.SSG comb}",
-              "fontWeight": "{fontweight.bold}",
-              "fontSize": "{fontsize.md}",
-              "textDecoration": "{textdecoration.underline}"
-            },
-            "type": "typography"
-          },
-          "lg": {
-            "value": {
-              "fontFamily": "{fontfamily.SSG comb}",
-              "fontWeight": "{fontweight.bold}",
-              "fontSize": "{fontsize.lg}",
-              "textDecoration": "{textdecoration.underline}"
-            },
-            "type": "typography"
-          },
-          "xl": {
-            "value": {
-              "fontFamily": "{fontfamily.SSG comb}",
-              "fontWeight": "{fontweight.bold}",
-              "fontSize": "{fontsize.xl}",
-              "textDecoration": "{textdecoration.underline}"
-            },
-            "type": "typography"
-          },
-          "2xl": {
-            "value": {
-              "fontFamily": "{fontfamily.SSG comb}",
-              "fontWeight": "{fontweight.bold}",
-              "fontSize": "{fontsize.2xl}",
-              "textDecoration": "{textdecoration.underline}"
-            },
-            "type": "typography"
-          }
-        }
-      }
-    }
-  },
-  "ssg_button": {
+  "ssg_btn": {
     "oval": {
       "2xs": {
         "value": "10",
@@ -1429,56 +487,56 @@
     "rect": {
       "2xs": {
         "value": {
-          "height": "{btn_height.2xs}",
+          "height": "{btn.height.2xs}",
           "horizontalPadding": "{btn.horizontal.2xs}"
         },
         "type": "composition"
       },
       "xs": {
         "value": {
-          "height": "{btn_height.xs}",
+          "height": "{btn.height.xs}",
           "horizontalPadding": "{btn.horizontal.xs}"
         },
         "type": "composition"
       },
       "sm": {
         "value": {
-          "height": "{btn_height.sm}",
+          "height": "{btn.height.sm}",
           "horizontalPadding": "{btn.horizontal.sm}"
         },
         "type": "composition"
       },
       "md": {
         "value": {
-          "height": "{btn_height.md}",
+          "height": "{btn.height.md}",
           "horizontalPadding": "{btn.horizontal.md}"
         },
         "type": "composition"
       },
       "lg": {
         "value": {
-          "height": "{btn_height.lg}",
+          "height": "{btn.height.lg}",
           "horizontalPadding": "{btn.horizontal.lg}"
         },
         "type": "composition"
       },
       "xl": {
         "value": {
-          "height": "{btn_height.xl}",
+          "height": "{btn.height.xl}",
           "horizontalPadding": "{btn.horizontal.xl}"
         },
         "type": "composition"
       },
       "2xl": {
         "value": {
-          "height": "{btn_height.2xl}",
+          "height": "{btn.height.2xl}",
           "horizontalPadding": "{btn.horizontal.2xl}"
         },
         "type": "composition"
       },
       "3xl": {
         "value": {
-          "height": "{btn_height.3xl}",
+          "height": "{btn.height.3xl}",
           "horizontalPadding": "{btn.horizontal.2xl}"
         },
         "type": "composition"
@@ -1487,65 +545,65 @@
     "round": {
       "2xs": {
         "value": {
-          "height": "{btn_height.2xs}",
+          "height": "{btn.height.2xs}",
           "horizontalPadding": "{btn.horizontal.2xs}",
-          "borderRadius": "{ssg_button.round.2xs}"
+          "borderRadius": "{ssg_btn.round.2xs}"
         },
         "type": "composition"
       },
       "xs": {
         "value": {
-          "height": "{btn_height.xs}",
+          "height": "{btn.height.xs}",
           "horizontalPadding": "{btn.horizontal.xs}",
-          "borderRadius": "{ssg_button.round.xs}"
+          "borderRadius": "{ssg_btn.round.xs}"
         },
         "type": "composition"
       },
       "sm": {
         "value": {
-          "height": "{btn_height.sm}",
+          "height": "{btn.height.sm}",
           "horizontalPadding": "{btn.horizontal.sm}",
-          "borderRadius": "{ssg_button.round.sm}"
+          "borderRadius": "{ssg_btn.round.sm}"
         },
         "type": "composition"
       },
       "md": {
         "value": {
-          "height": "{btn_height.md}",
+          "height": "{btn.height.md}",
           "horizontalPadding": "{btn.horizontal.md}",
-          "borderRadius": "{ssg_button.round.md}"
+          "borderRadius": "{ssg_btn.round.md}"
         },
         "type": "composition"
       },
       "lg": {
         "value": {
-          "height": "{btn_height.lg}",
+          "height": "{btn.height.lg}",
           "horizontalPadding": "{btn.horizontal.lg}",
-          "borderRadius": "{ssg_button.round.lg}"
+          "borderRadius": "{ssg_btn.round.lg}"
         },
         "type": "composition"
       },
       "xl": {
         "value": {
-          "height": "{btn_height.xl}",
+          "height": "{btn.height.xl}",
           "horizontalPadding": "{btn.horizontal.xl}",
-          "borderRadius": "{ssg_button.round.xl}"
+          "borderRadius": "{ssg_btn.round.xl}"
         },
         "type": "composition"
       },
       "2xl": {
         "value": {
-          "height": "{btn_height.2xl}",
+          "height": "{btn.height.2xl}",
           "horizontalPadding": "{btn.horizontal.2xl}",
-          "borderRadius": "{ssg_button.round.2xl}"
+          "borderRadius": "{ssg_btn.round.2xl}"
         },
         "type": "composition"
       },
       "3xl": {
         "value": {
-          "height": "{btn_height.3xl}",
+          "height": "{btn.height.3xl}",
           "horizontalPadding": "{btn.horizontal.3xl}",
-          "borderRadius": "{ssg_button.round.3xl}"
+          "borderRadius": "{ssg_btn.round.3xl}"
         },
         "type": "composition"
       }
@@ -1553,65 +611,65 @@
     "oval": {
       "2xs": {
         "value": {
-          "height": "{btn_height.2xs}",
+          "height": "{btn.height.2xs}",
           "horizontalPadding": "{btn.horizontal.2xs}",
-          "borderRadius": "{ssg_button.oval.2xs}"
+          "borderRadius": "{ssg_btn.oval.2xs}"
         },
         "type": "composition"
       },
       "xs": {
         "value": {
-          "height": "{btn_height.xs}",
+          "height": "{btn.height.xs}",
           "horizontalPadding": "{btn.horizontal.xs}",
-          "borderRadius": "{ssg_button.oval.xs}"
+          "borderRadius": "{ssg_btn.oval.xs}"
         },
         "type": "composition"
       },
       "sm": {
         "value": {
-          "height": "{btn_height.sm}",
+          "height": "{btn.height.sm}",
           "horizontalPadding": "{btn.horizontal.sm}",
-          "borderRadius": "{ssg_button.oval.sm}"
+          "borderRadius": "{ssg_btn.oval.sm}"
         },
         "type": "composition"
       },
       "md": {
         "value": {
-          "height": "{btn_height.md}",
+          "height": "{btn.height.md}",
           "horizontalPadding": "{btn.horizontal.md}",
-          "borderRadius": "{ssg_button.oval.md}"
+          "borderRadius": "{ssg_btn.oval.md}"
         },
         "type": "composition"
       },
       "lg": {
         "value": {
-          "height": "{btn_height.lg}",
+          "height": "{btn.height.lg}",
           "horizontalPadding": "{btn.horizontal.lg}",
-          "borderRadius": "{ssg_button.oval.lg}"
+          "borderRadius": "{ssg_btn.oval.lg}"
         },
         "type": "composition"
       },
       "xl": {
         "value": {
-          "height": "{btn_height.xl}",
+          "height": "{btn.height.xl}",
           "horizontalPadding": "{btn.horizontal.xl}",
-          "borderRadius": "{ssg_button.oval.xl}"
+          "borderRadius": "{ssg_btn.oval.xl}"
         },
         "type": "composition"
       },
       "2xl": {
         "value": {
-          "height": "{btn_height.2xl}",
+          "height": "{btn.height.2xl}",
           "horizontalPadding": "{btn.horizontal.2xl}",
-          "borderRadius": "{ssg_button.oval.2xl}"
+          "borderRadius": "{ssg_btn.oval.2xl}"
         },
         "type": "composition"
       },
       "3xl": {
         "value": {
-          "height": "{btn_height.3xl}",
+          "height": "{btn.height.3xl}",
           "horizontalPadding": "{btn.horizontal.3xl}",
-          "borderRadius": "{ssg_button.oval.3xl}"
+          "borderRadius": "{ssg_btn.oval.3xl}"
         },
         "type": "composition"
       }
@@ -1621,56 +679,56 @@
     "rect": {
       "2xs": {
         "value": {
-          "height": "{btn_height.2xs}",
+          "height": "{btn.height.2xs}",
           "horizontalPadding": "{btn.horizontal.2xs}"
         },
         "type": "composition"
       },
       "xs": {
         "value": {
-          "height": "{btn_height.xs}",
+          "height": "{btn.height.xs}",
           "horizontalPadding": "{btn.horizontal.xs}"
         },
         "type": "composition"
       },
       "sm": {
         "value": {
-          "height": "{btn_height.sm}",
+          "height": "{btn.height.sm}",
           "horizontalPadding": "{btn.horizontal.sm}"
         },
         "type": "composition"
       },
       "md": {
         "value": {
-          "height": "{btn_height.md}",
+          "height": "{btn.height.md}",
           "horizontalPadding": "{btn.horizontal.md}"
         },
         "type": "composition"
       },
       "lg": {
         "value": {
-          "height": "{btn_height.lg}",
+          "height": "{btn.height.lg}",
           "horizontalPadding": "{btn.horizontal.lg}"
         },
         "type": "composition"
       },
       "xl": {
         "value": {
-          "height": "{btn_height.xl}",
+          "height": "{btn.height.xl}",
           "horizontalPadding": "{btn.horizontal.xl}"
         },
         "type": "composition"
       },
       "2xl": {
         "value": {
-          "height": "{btn_height.2xl}",
+          "height": "{btn.height.2xl}",
           "horizontalPadding": "{btn.horizontal.2xl}"
         },
         "type": "composition"
       },
       "3xl": {
         "value": {
-          "height": "{btn_height.3xl}",
+          "height": "{btn.height.3xl}",
           "horizontalPadding": "{btn.horizontal.2xl}"
         },
         "type": "composition"
@@ -1679,65 +737,65 @@
     "round": {
       "2xs": {
         "value": {
-          "height": "{btn_height.2xs}",
+          "height": "{btn.height.2xs}",
           "horizontalPadding": "{btn.horizontal.2xs}",
-          "borderRadius": "{ssg_button.round.2xs}"
+          "borderRadius": "{ssg_btn.round.2xs}"
         },
         "type": "composition"
       },
       "xs": {
         "value": {
-          "height": "{btn_height.xs}",
+          "height": "{btn.height.xs}",
           "horizontalPadding": "{btn.horizontal.xs}",
-          "borderRadius": "{ssg_button.round.xs}"
+          "borderRadius": "{ssg_btn.round.xs}"
         },
         "type": "composition"
       },
       "sm": {
         "value": {
-          "height": "{btn_height.sm}",
+          "height": "{btn.height.sm}",
           "horizontalPadding": "{btn.horizontal.sm}",
-          "borderRadius": "{ssg_button.round.sm}"
+          "borderRadius": "{ssg_btn.round.sm}"
         },
         "type": "composition"
       },
       "md": {
         "value": {
-          "height": "{btn_height.md}",
+          "height": "{btn.height.md}",
           "horizontalPadding": "{btn.horizontal.md}",
-          "borderRadius": "{ssg_button.round.md}"
+          "borderRadius": "{ssg_btn.round.md}"
         },
         "type": "composition"
       },
       "lg": {
         "value": {
-          "height": "{btn_height.lg}",
+          "height": "{btn.height.lg}",
           "horizontalPadding": "{btn.horizontal.lg}",
-          "borderRadius": "{ssg_button.round.lg}"
+          "borderRadius": "{ssg_btn.round.lg}"
         },
         "type": "composition"
       },
       "xl": {
         "value": {
-          "height": "{btn_height.xl}",
+          "height": "{btn.height.xl}",
           "horizontalPadding": "{btn.horizontal.xl}",
-          "borderRadius": "{ssg_button.round.xl}"
+          "borderRadius": "{ssg_btn.round.xl}"
         },
         "type": "composition"
       },
       "2xl": {
         "value": {
-          "height": "{btn_height.2xl}",
+          "height": "{btn.height.2xl}",
           "horizontalPadding": "{btn.horizontal.2xl}",
-          "borderRadius": "{ssg_button.round.2xl}"
+          "borderRadius": "{ssg_btn.round.2xl}"
         },
         "type": "composition"
       },
       "3xl": {
         "value": {
-          "height": "{btn_height.3xl}",
+          "height": "{btn.height.3xl}",
           "horizontalPadding": "{btn.horizontal.3xl}",
-          "borderRadius": "{ssg_button.round.3xl}"
+          "borderRadius": "{ssg_btn.round.3xl}"
         },
         "type": "composition"
       }
@@ -1745,65 +803,65 @@
     "oval": {
       "2xs": {
         "value": {
-          "height": "{btn_height.2xs}",
+          "height": "{btn.height.2xs}",
           "horizontalPadding": "{btn.horizontal.2xs}",
-          "borderRadius": "{ssg_button.oval.2xs}"
+          "borderRadius": "{ssg_btn.oval.2xs}"
         },
         "type": "composition"
       },
       "xs": {
         "value": {
-          "height": "{btn_height.xs}",
+          "height": "{btn.height.xs}",
           "horizontalPadding": "{btn.horizontal.xs}",
-          "borderRadius": "{ssg_button.oval.xs}"
+          "borderRadius": "{ssg_btn.oval.xs}"
         },
         "type": "composition"
       },
       "sm": {
         "value": {
-          "height": "{btn_height.sm}",
+          "height": "{btn.height.sm}",
           "horizontalPadding": "{btn.horizontal.sm}",
-          "borderRadius": "{ssg_button.oval.sm}"
+          "borderRadius": "{ssg_btn.oval.sm}"
         },
         "type": "composition"
       },
       "md": {
         "value": {
-          "height": "{btn_height.md}",
+          "height": "{btn.height.md}",
           "horizontalPadding": "{btn.horizontal.md}",
-          "borderRadius": "{ssg_button.oval.md}"
+          "borderRadius": "{ssg_btn.oval.md}"
         },
         "type": "composition"
       },
       "lg": {
         "value": {
-          "height": "{btn_height.lg}",
+          "height": "{btn.height.lg}",
           "horizontalPadding": "{btn.horizontal.lg}",
-          "borderRadius": "{ssg_button.oval.lg}"
+          "borderRadius": "{ssg_btn.oval.lg}"
         },
         "type": "composition"
       },
       "xl": {
         "value": {
-          "height": "{btn_height.xl}",
+          "height": "{btn.height.xl}",
           "horizontalPadding": "{btn.horizontal.xl}",
-          "borderRadius": "{ssg_button.oval.xl}"
+          "borderRadius": "{ssg_btn.oval.xl}"
         },
         "type": "composition"
       },
       "2xl": {
         "value": {
-          "height": "{btn_height.2xl}",
+          "height": "{btn.height.2xl}",
           "horizontalPadding": "{btn.horizontal.2xl}",
-          "borderRadius": "{ssg_button.oval.2xl}"
+          "borderRadius": "{ssg_btn.oval.2xl}"
         },
         "type": "composition"
       },
       "3xl": {
         "value": {
-          "height": "{btn_height.3xl}",
+          "height": "{btn.height.3xl}",
           "horizontalPadding": "{btn.horizontal.3xl}",
-          "borderRadius": "{ssg_button.oval.3xl}"
+          "borderRadius": "{ssg_btn.oval.3xl}"
         },
         "type": "composition"
       }
@@ -1903,49 +961,49 @@
     "rect": {
       "2xs": {
         "value": {
-          "sizing": "{btn_height.2xs}",
+          "sizing": "{btn.height.2xs}",
           "spacing": "{btn.spacing.2xs}"
         },
         "type": "composition"
       },
       "xs": {
         "value": {
-          "sizing": "{btn_height.xs}",
+          "sizing": "{btn.height.xs}",
           "spacing": "{btn.spacing.xs}"
         },
         "type": "composition"
       },
       "sm": {
         "value": {
-          "sizing": "{btn_height.xs}",
+          "sizing": "{btn.height.xs}",
           "spacing": "{btn.spacing.sm}"
         },
         "type": "composition"
       },
       "md": {
         "value": {
-          "sizing": "{btn_height.md}",
+          "sizing": "{btn.height.md}",
           "spacing": "{btn.spacing.md}"
         },
         "type": "composition"
       },
       "lg": {
         "value": {
-          "sizing": "{btn_height.lg}",
+          "sizing": "{btn.height.lg}",
           "spacing": "{btn.spacing.lg}"
         },
         "type": "composition"
       },
       "xl": {
         "value": {
-          "sizing": "{btn_height.xl}",
+          "sizing": "{btn.height.xl}",
           "spacing": "{btn.spacing.xl}"
         },
         "type": "composition"
       },
       "2xl": {
         "value": {
-          "sizing": "{btn_height.2xl}",
+          "sizing": "{btn.height.2xl}",
           "spacing": "{btn.spacing.2xl}"
         },
         "type": "composition"
@@ -1954,57 +1012,57 @@
     "round": {
       "2xs": {
         "value": {
-          "sizing": "{btn_height.2xs}",
+          "sizing": "{btn.height.2xs}",
           "spacing": "{btn.spacing.2xs}",
-          "borderRadius": "{ssg_button.round.2xs}"
+          "borderRadius": "{ssg_btn.round.2xs}"
         },
         "type": "composition"
       },
       "xs": {
         "value": {
-          "sizing": "{btn_height.xs}",
+          "sizing": "{btn.height.xs}",
           "spacing": "{btn.spacing.xs}",
-          "borderRadius": "{ssg_button.round.xs}"
+          "borderRadius": "{ssg_btn.round.xs}"
         },
         "type": "composition"
       },
       "sm": {
         "value": {
-          "sizing": "{btn_height.sm}",
+          "sizing": "{btn.height.sm}",
           "spacing": "{btn.spacing.sm}",
-          "borderRadius": "{ssg_button.round.sm}"
+          "borderRadius": "{ssg_btn.round.sm}"
         },
         "type": "composition"
       },
       "md": {
         "value": {
-          "sizing": "{btn_height.md}",
+          "sizing": "{btn.height.md}",
           "spacing": "{btn.spacing.md}",
-          "borderRadius": "{ssg_button.round.md}"
+          "borderRadius": "{ssg_btn.round.md}"
         },
         "type": "composition"
       },
       "lg": {
         "value": {
-          "sizing": "{btn_height.lg}",
+          "sizing": "{btn.height.lg}",
           "spacing": "{btn.spacing.lg}",
-          "borderRadius": "{ssg_button.round.lg}"
+          "borderRadius": "{ssg_btn.round.lg}"
         },
         "type": "composition"
       },
       "xl": {
         "value": {
-          "sizing": "{btn_height.xl}",
+          "sizing": "{btn.height.xl}",
           "spacing": "{btn.spacing.xl}",
-          "borderRadius": "{ssg_button.round.xl}"
+          "borderRadius": "{ssg_btn.round.xl}"
         },
         "type": "composition"
       },
       "2xl": {
         "value": {
-          "sizing": "{btn_height.2xl}",
+          "sizing": "{btn.height.2xl}",
           "spacing": "{btn.spacing.2xl}",
-          "borderRadius": "{ssg_button.round.2xl}"
+          "borderRadius": "{ssg_btn.round.2xl}"
         },
         "type": "composition"
       }
@@ -2012,57 +1070,57 @@
     "oval": {
       "2xs": {
         "value": {
-          "sizing": "{btn_height.2xs}",
+          "sizing": "{btn.height.2xs}",
           "spacing": "{btn.spacing.2xs}",
-          "borderRadius": "{ssg_button.oval.2xs}"
+          "borderRadius": "{ssg_btn.oval.2xs}"
         },
         "type": "composition"
       },
       "xs": {
         "value": {
-          "sizing": "{btn_height.xs}",
+          "sizing": "{btn.height.xs}",
           "spacing": "{btn.spacing.xs}",
-          "borderRadius": "{ssg_button.oval.xs}"
+          "borderRadius": "{ssg_btn.oval.xs}"
         },
         "type": "composition"
       },
       "sm": {
         "value": {
-          "sizing": "{btn_height.sm}",
+          "sizing": "{btn.height.sm}",
           "spacing": "{btn.spacing.sm}",
-          "borderRadius": "{ssg_button.oval.sm}"
+          "borderRadius": "{ssg_btn.oval.sm}"
         },
         "type": "composition"
       },
       "md": {
         "value": {
-          "sizing": "{btn_height.md}",
+          "sizing": "{btn.height.md}",
           "spacing": "{btn.spacing.md}",
-          "borderRadius": "{ssg_button.oval.md}"
+          "borderRadius": "{ssg_btn.oval.md}"
         },
         "type": "composition"
       },
       "lg": {
         "value": {
-          "sizing": "{btn_height.lg}",
+          "sizing": "{btn.height.lg}",
           "spacing": "{btn.spacing.lg}",
-          "borderRadius": "{ssg_button.oval.lg}"
+          "borderRadius": "{ssg_btn.oval.lg}"
         },
         "type": "composition"
       },
       "xl": {
         "value": {
-          "sizing": "{btn_height.xl}",
+          "sizing": "{btn.height.xl}",
           "spacing": "{btn.spacing.xl}",
-          "borderRadius": "{ssg_button.oval.xl}"
+          "borderRadius": "{ssg_btn.oval.xl}"
         },
         "type": "composition"
       },
       "2xl": {
         "value": {
-          "sizing": "{btn_height.2xl}",
+          "sizing": "{btn.height.2xl}",
           "spacing": "{btn.spacing.2xl}",
-          "borderRadius": "{ssg_button.oval.2xl}"
+          "borderRadius": "{ssg_btn.oval.2xl}"
         },
         "type": "composition"
       }
@@ -2072,49 +1130,49 @@
     "rect": {
       "2xs": {
         "value": {
-          "sizing": "{btn_height.2xs}",
+          "sizing": "{btn.height.2xs}",
           "spacing": "{btn.spacing.2xs}"
         },
         "type": "composition"
       },
       "xs": {
         "value": {
-          "sizing": "{btn_height.xs}",
+          "sizing": "{btn.height.xs}",
           "spacing": "{btn.spacing.xs}"
         },
         "type": "composition"
       },
       "sm": {
         "value": {
-          "sizing": "{btn_height.xs}",
+          "sizing": "{btn.height.xs}",
           "spacing": "{btn.spacing.sm}"
         },
         "type": "composition"
       },
       "md": {
         "value": {
-          "sizing": "{btn_height.md}",
+          "sizing": "{btn.height.md}",
           "spacing": "{btn.spacing.md}"
         },
         "type": "composition"
       },
       "lg": {
         "value": {
-          "sizing": "{btn_height.lg}",
+          "sizing": "{btn.height.lg}",
           "spacing": "{btn.spacing.lg}"
         },
         "type": "composition"
       },
       "xl": {
         "value": {
-          "sizing": "{btn_height.xl}",
+          "sizing": "{btn.height.xl}",
           "spacing": "{btn.spacing.xl}"
         },
         "type": "composition"
       },
       "2xl": {
         "value": {
-          "sizing": "{btn_height.2xl}",
+          "sizing": "{btn.height.2xl}",
           "spacing": "{btn.spacing.2xl}"
         },
         "type": "composition"
@@ -2123,57 +1181,57 @@
     "round": {
       "2xs": {
         "value": {
-          "sizing": "{btn_height.2xs}",
+          "sizing": "{btn.height.2xs}",
           "spacing": "{btn.spacing.2xs}",
-          "borderRadius": "{ssg_button.round.2xs}"
+          "borderRadius": "{ssg_btn.round.2xs}"
         },
         "type": "composition"
       },
       "xs": {
         "value": {
-          "sizing": "{btn_height.xs}",
+          "sizing": "{btn.height.xs}",
           "spacing": "{btn.spacing.xs}",
-          "borderRadius": "{ssg_button.round.xs}"
+          "borderRadius": "{ssg_btn.round.xs}"
         },
         "type": "composition"
       },
       "sm": {
         "value": {
-          "sizing": "{btn_height.sm}",
+          "sizing": "{btn.height.sm}",
           "spacing": "{btn.spacing.sm}",
-          "borderRadius": "{ssg_button.round.sm}"
+          "borderRadius": "{ssg_btn.round.sm}"
         },
         "type": "composition"
       },
       "md": {
         "value": {
-          "sizing": "{btn_height.md}",
+          "sizing": "{btn.height.md}",
           "spacing": "{btn.spacing.md}",
-          "borderRadius": "{ssg_button.round.md}"
+          "borderRadius": "{ssg_btn.round.md}"
         },
         "type": "composition"
       },
       "lg": {
         "value": {
-          "sizing": "{btn_height.lg}",
+          "sizing": "{btn.height.lg}",
           "spacing": "{btn.spacing.lg}",
-          "borderRadius": "{ssg_button.round.lg}"
+          "borderRadius": "{ssg_btn.round.lg}"
         },
         "type": "composition"
       },
       "xl": {
         "value": {
-          "sizing": "{btn_height.xl}",
+          "sizing": "{btn.height.xl}",
           "spacing": "{btn.spacing.xl}",
-          "borderRadius": "{ssg_button.round.xl}"
+          "borderRadius": "{ssg_btn.round.xl}"
         },
         "type": "composition"
       },
       "2xl": {
         "value": {
-          "sizing": "{btn_height.2xl}",
+          "sizing": "{btn.height.2xl}",
           "spacing": "{btn.spacing.2xl}",
-          "borderRadius": "{ssg_button.round.2xl}"
+          "borderRadius": "{ssg_btn.round.2xl}"
         },
         "type": "composition"
       }
@@ -2181,57 +1239,57 @@
     "oval": {
       "2xs": {
         "value": {
-          "sizing": "{btn_height.2xs}",
+          "sizing": "{btn.height.2xs}",
           "spacing": "{btn.spacing.2xs}",
-          "borderRadius": "{ssg_button.oval.2xs}"
+          "borderRadius": "{ssg_btn.oval.2xs}"
         },
         "type": "composition"
       },
       "xs": {
         "value": {
-          "sizing": "{btn_height.xs}",
+          "sizing": "{btn.height.xs}",
           "spacing": "{btn.spacing.xs}",
-          "borderRadius": "{ssg_button.oval.xs}"
+          "borderRadius": "{ssg_btn.oval.xs}"
         },
         "type": "composition"
       },
       "sm": {
         "value": {
-          "sizing": "{btn_height.sm}",
+          "sizing": "{btn.height.sm}",
           "spacing": "{btn.spacing.sm}",
-          "borderRadius": "{ssg_button.oval.sm}"
+          "borderRadius": "{ssg_btn.oval.sm}"
         },
         "type": "composition"
       },
       "md": {
         "value": {
-          "sizing": "{btn_height.md}",
+          "sizing": "{btn.height.md}",
           "spacing": "{btn.spacing.md}",
-          "borderRadius": "{ssg_button.oval.md}"
+          "borderRadius": "{ssg_btn.oval.md}"
         },
         "type": "composition"
       },
       "lg": {
         "value": {
-          "sizing": "{btn_height.lg}",
+          "sizing": "{btn.height.lg}",
           "spacing": "{btn.spacing.lg}",
-          "borderRadius": "{ssg_button.oval.lg}"
+          "borderRadius": "{ssg_btn.oval.lg}"
         },
         "type": "composition"
       },
       "xl": {
         "value": {
-          "sizing": "{btn_height.xl}",
+          "sizing": "{btn.height.xl}",
           "spacing": "{btn.spacing.xl}",
-          "borderRadius": "{ssg_button.oval.xl}"
+          "borderRadius": "{ssg_btn.oval.xl}"
         },
         "type": "composition"
       },
       "2xl": {
         "value": {
-          "sizing": "{btn_height.2xl}",
+          "sizing": "{btn.height.2xl}",
           "spacing": "{btn.spacing.2xl}",
-          "borderRadius": "{ssg_button.oval.2xl}"
+          "borderRadius": "{ssg_btn.oval.2xl}"
         },
         "type": "composition"
       }
@@ -2240,56 +1298,56 @@
   "icon_btn": {
     "2xs": {
       "value": {
-        "height": "{btn_height.2xs}",
+        "height": "{btn.height.2xs}",
         "horizontalPadding": "{btn.horizontal.2xs}"
       },
       "type": "composition"
     },
     "xs": {
       "value": {
-        "height": "{btn_height.xs}",
+        "height": "{btn.height.xs}",
         "horizontalPadding": "{btn.horizontal.xs}"
       },
       "type": "composition"
     },
     "sm": {
       "value": {
-        "height": "{btn_height.sm}",
+        "height": "{btn.height.sm}",
         "horizontalPadding": "{btn.horizontal.sm}"
       },
       "type": "composition"
     },
     "md": {
       "value": {
-        "height": "{btn_height.md}",
+        "height": "{btn.height.md}",
         "horizontalPadding": "{btn.horizontal.md}"
       },
       "type": "composition"
     },
     "lg": {
       "value": {
-        "height": "{btn_height.lg}",
+        "height": "{btn.height.lg}",
         "horizontalPadding": "{btn.horizontal.lg}"
       },
       "type": "composition"
     },
     "xl": {
       "value": {
-        "height": "{btn_height.xl}",
+        "height": "{btn.height.xl}",
         "horizontalPadding": "{btn.horizontal.xl}"
       },
       "type": "composition"
     },
     "2xl": {
       "value": {
-        "height": "{btn_height.2xl}",
+        "height": "{btn.height.2xl}",
         "horizontalPadding": "{btn.horizontal.2xl}"
       },
       "type": "composition"
     },
     "3xl": {
       "value": {
-        "height": "{btn_height.3xl}",
+        "height": "{btn.height.3xl}",
         "horizontalPadding": "{btn.horizontal.2xl}"
       },
       "type": "composition"
