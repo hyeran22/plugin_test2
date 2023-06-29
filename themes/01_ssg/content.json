@@ -1,0 +1,194 @@
+{
+  "01_ssg": {
+    "content": {
+      "headline": {
+        "1": {
+          "value": "{01_ssg.netural.gray900}",
+          "type": "color",
+          "description": "- 기본 헤드라인 컬러"
+        },
+        "2": {
+          "value": "{01_ssg.netural.black}",
+          "type": "color",
+          "description": "- 제일 중요한 내용\nex) 상품모듈 가격, 구조개선 퀵링크 텍스트"
+        },
+        "24b": {
+          "value": {
+            "fontFamily": "{fontfamily.SSG comb}",
+            "fontWeight": "{fontweight.bold}",
+            "fontSize": "{fontsize.4xl}"
+          },
+          "type": "typography"
+        },
+        "20b": {
+          "value": {
+            "fontFamily": "{fontfamily.SSG comb}",
+            "fontWeight": "{fontweight.bold}",
+            "fontSize": "{fontsize.3xl}"
+          },
+          "type": "typography"
+        }
+      },
+      "subtitle": {
+        "1": {
+          "value": "{01_ssg.netural.gray700}",
+          "type": "color",
+          "description": "- 기본 서브타이틀 컬러"
+        },
+        "18b": {
+          "value": {
+            "fontFamily": "{fontfamily.SSG comb}",
+            "fontWeight": "{fontweight.bold}",
+            "fontSize": "{fontsize.2xl}"
+          },
+          "type": "typography"
+        },
+        "16b": {
+          "value": {
+            "fontFamily": "{fontfamily.SSG comb}",
+            "fontWeight": "{fontweight.bold}",
+            "fontSize": "{fontsize.xl}"
+          },
+          "type": "typography"
+        },
+        "16m": {
+          "value": {
+            "fontFamily": "{fontfamily.SSG comb}",
+            "fontWeight": "{fontweight.medium}",
+            "fontSize": "{fontsize.xl}"
+          },
+          "type": "typography"
+        }
+      },
+      "body": {
+        "1": {
+          "value": "{01_ssg.netural.gray700}",
+          "type": "color",
+          "description": "- 기본 바디 컬러"
+        },
+        "2": {
+          "value": "{01_ssg.netural.gray900}",
+          "type": "color",
+          "description": "- Body 단독으로 쓰이는 경우"
+        },
+        "3": {
+          "value": "{01_ssg.netural.gray400}",
+          "type": "color",
+          "description": "- 인풋박스 안내문구"
+        },
+        "12b": {
+          "value": {
+            "fontFamily": "{fontfamily.SSG comb}",
+            "fontWeight": "{fontweight.bold}",
+            "fontSize": "{fontsize.xs}"
+          },
+          "type": "typography"
+        },
+        "12r": {
+          "value": {
+            "fontFamily": "{fontfamily.SSG comb}",
+            "fontWeight": "{fontweight.regular}",
+            "fontSize": "{fontsize.xs}"
+          },
+          "type": "typography"
+        },
+        "13b": {
+          "value": {
+            "fontFamily": "{fontfamily.SSG comb}",
+            "fontWeight": "{fontweight.bold}",
+            "fontSize": "{fontsize.sm}"
+          },
+          "type": "typography"
+        },
+        "13r": {
+          "value": {
+            "fontFamily": "{fontfamily.SSG comb}",
+            "fontWeight": "{fontweight.regular}",
+            "fontSize": "{fontsize.sm}"
+          },
+          "type": "typography"
+        },
+        "14b": {
+          "value": {
+            "fontFamily": "{fontfamily.SSG comb}",
+            "fontWeight": "{fontweight.bold}",
+            "fontSize": "{fontsize.md}"
+          },
+          "type": "typography"
+        },
+        "14r": {
+          "value": {
+            "fontFamily": "{fontfamily.SSG comb}",
+            "fontWeight": "{fontweight.regular}",
+            "fontSize": "{fontsize.md}"
+          },
+          "type": "typography"
+        },
+        "15b": {
+          "value": {
+            "fontFamily": "{fontfamily.SSG comb}",
+            "fontWeight": "{fontweight.bold}",
+            "fontSize": "{fontsize.lg}"
+          },
+          "type": "typography"
+        },
+        "15r": {
+          "value": {
+            "fontFamily": "{fontfamily.SSG comb}",
+            "fontWeight": "{fontweight.regular}",
+            "fontSize": "{fontsize.lg}"
+          },
+          "type": "typography"
+        }
+      },
+      "caption": {
+        "1": {
+          "value": "{01_ssg.netural.gray800}",
+          "type": "color",
+          "description": "- 기본 캡션 컬러\nex) 단위당 가격, 삭선가"
+        }
+      },
+      "background": {
+        "1": {
+          "value": "{01_ssg.netural.white}",
+          "type": "color",
+          "description": "- 기본 페이지 컬러"
+        },
+        "2": {
+          "value": "{01_ssg.netural.gray100}",
+          "type": "color",
+          "description": "- 화이트 배경과 구분이 필요한 경우"
+        },
+        "3": {
+          "value": "{01_ssg.netural.gray150}",
+          "type": "color",
+          "description": "- 화이트 배경과 구분이 필요한 경우"
+        }
+      },
+      "outline": {
+        "1": {
+          "value": "{01_ssg.netural.gray150}",
+          "type": "color",
+          "description": "- background 영역 테두리 라인"
+        }
+      },
+      "divider": {
+        "1": {
+          "value": "{01_ssg.netural.gray100}",
+          "type": "color",
+          "description": "- 디바이더 라인 (두꺼운)\n- 타이틀바 구분 라인"
+        },
+        "2": {
+          "value": "{01_ssg.netural.gray200}",
+          "type": "color",
+          "description": "- 같은 영역 내 구분선"
+        },
+        "3": {
+          "value": "{01_ssg.netural.gray350}",
+          "type": "color",
+          "description": "- Bottom sheet 타이틀 구분 라인"
+        }
+      }
+    }
+  }
+}

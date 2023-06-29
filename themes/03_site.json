@@ -1,0 +1,157 @@
+{
+  "03_site": {
+    "emart_primary": {
+      "value": "#ffd040",
+      "type": "color",
+      "description": "- 구이마트몰(배송컬러x)\n- 사용불가"
+    },
+    "shinsegaemall_primary": {
+      "value": "#f12e24",
+      "type": "color",
+      "description": "- 신세계몰"
+    },
+    "shinsegaemall_secondary": {
+      "value": "#000000",
+      "type": "color",
+      "description": "- 신세계몰"
+    },
+    "department_primary": {
+      "value": "#A59357",
+      "type": "color",
+      "description": "- 신세계백화점"
+    },
+    "department_secondary": {
+      "value": "#000000",
+      "type": "color",
+      "description": "- 신세계백화점"
+    },
+    "triip_primary": {
+      "value": "#328ca8",
+      "type": "color",
+      "description": "- 여행"
+    },
+    "triip_secondary1": {
+      "value": "#2e3342",
+      "type": "color",
+      "description": "- 여행"
+    },
+    "triip_secondary2": {
+      "value": "#ff5b59",
+      "type": "color",
+      "description": "- 여행"
+    },
+    "starfield_primary": {
+      "value": "#b12536",
+      "type": "color",
+      "description": "- 스타필드"
+    },
+    "삭제예정": {
+      "ssg_primary": {
+        "value": "#ff3e3e",
+        "type": "color",
+        "description": "- 사용불가"
+      },
+      "ssg_secondary1": {
+        "value": "#000000",
+        "type": "color",
+        "description": "- 사용불가"
+      },
+      "ssg_secondary2": {
+        "value": "#6841ff",
+        "type": "color",
+        "description": "- 사용불가"
+      },
+      "emart_secondary1": {
+        "value": "#ff6a26",
+        "type": "color",
+        "description": "- 구이마트몰(배송컬러x)\n- 사용불가"
+      },
+      "emart_secondary2": {
+        "value": "#383f45",
+        "type": "color",
+        "description": "- 구이마트몰(배송컬러x)\n- 사용불가"
+      },
+      "traders_primary": {
+        "value": "#a6dd27",
+        "type": "color",
+        "description": "- 트레이더스몰(배송컬러x)\n- 사용불가"
+      },
+      "traders_secondary": {
+        "value": "#02bd56",
+        "type": "color",
+        "description": "- 트레이더스몰(배송컬러x)\n- 사용불가"
+      },
+      "earlymorning_primary": {
+        "value": "#a3b7cd",
+        "type": "color",
+        "description": "- 새벽배송(배송컬러x)\n- 사용불가"
+      },
+      "earlymorning_secondary1": {
+        "value": "#8097af",
+        "type": "color",
+        "description": "- 새벽배송(배송컬러x)\n- 사용불가"
+      },
+      "earlymorning_secondary2": {
+        "value": "#3fe37e",
+        "type": "color",
+        "description": "- 새벽배송(배송컬러x)\n- 사용불가"
+      },
+      "earlymorning_secondary3": {
+        "value": "#f8e71c",
+        "type": "color",
+        "description": "- 새벽배송(배송컬러x)\n- 사용불가"
+      },
+      "department_secondary2": {
+        "value": "#7e8083",
+        "type": "color",
+        "description": "- 신세계백화점\n- 사용불가"
+      },
+      "department_secondary3": {
+        "value": "#a59357",
+        "type": "color",
+        "description": "- 신세계백화점\n- 사용불가"
+      }
+    },
+    "brand(개발등록x)": {
+      "chicor_primary": {
+        "value": "linear-gradient(180deg, #e9450c 0%, #ffd700 50%, #df0082 100%)",
+        "type": "color",
+        "description": "공식브랜드관 > 그룹사관\n(유형구분 : https://projectwiki.ssgadm.com/pages/viewpage.action?pageId=96972680)"
+      },
+      "chicor_secondary": {
+        "value": "#000000",
+        "type": "color",
+        "description": "공식브랜드관 > 그룹사관\n(유형구분 : https://projectwiki.ssgadm.com/pages/viewpage.action?pageId=96972680)"
+      },
+      "casamia_primary": {
+        "value": "#ffcf02",
+        "type": "color",
+        "description": "공식브랜드관 > 그룹사관\n(유형구분 : https://projectwiki.ssgadm.com/pages/viewpage.action?pageId=96972680)"
+      },
+      "tv_primary": {
+        "value": "linear-gradient(90deg, #ff329b 0%, #fc5653 59.9%, #ff9100 100%)",
+        "type": "color",
+        "description": "공식브랜드관 > 그룹사관\n(유형구분 : https://projectwiki.ssgadm.com/pages/viewpage.action?pageId=96972680)"
+      },
+      "sivillage_primary": {
+        "value": "#222222",
+        "type": "color",
+        "description": "공식브랜드관 > 그룹사관\n(유형구분 : https://projectwiki.ssgadm.com/pages/viewpage.action?pageId=96972680)"
+      },
+      "premiumoutlet_primary": {
+        "value": "#d9117c",
+        "type": "color",
+        "description": "공식브랜드관 > 그룹사관\n(유형구분 : https://projectwiki.ssgadm.com/pages/viewpage.action?pageId=96972680)"
+      },
+      "starbucks_primary": {
+        "value": "#006241",
+        "type": "color",
+        "description": "공식브랜드관 > 그룹사관\n(유형구분 : https://projectwiki.ssgadm.com/pages/viewpage.action?pageId=96972680)"
+      },
+      "starbucks_secondary": {
+        "value": "#1E3932",
+        "type": "color"
+      }
+    }
+  }
+}

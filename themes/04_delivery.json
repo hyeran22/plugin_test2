@@ -1,0 +1,89 @@
+{
+  "04_delivery": {
+    "emart_light": {
+      "value": "#FFE98B",
+      "type": "color",
+      "description": "- 이마트 쓱배송"
+    },
+    "emart": {
+      "value": "#ffcf02",
+      "type": "color",
+      "description": "- 이마트 쓱배송"
+    },
+    "emart_dark": {
+      "value": "#FF6200",
+      "type": "color",
+      "description": "- 이마트 쓱배송\n- text 사용"
+    },
+    "earlymorning_light": {
+      "value": "#D5DEE8",
+      "type": "color",
+      "description": "- 새벽배송"
+    },
+    "earlymorning": {
+      "value": "#A3B7CD",
+      "type": "color",
+      "description": "- 새벽배송"
+    },
+    "earlymorning_dark": {
+      "value": "#44637E",
+      "type": "color",
+      "description": "- 새벽배송\n- text 사용"
+    },
+    "traders_light": {
+      "value": "#D6EF9C",
+      "type": "color",
+      "description": "- 트레이더스 쓱배송"
+    },
+    "traders": {
+      "value": "#a6dd27",
+      "type": "color",
+      "description": "- 트레이더스 쓱배송"
+    },
+    "traders_dark": {
+      "value": "#50A800",
+      "type": "color",
+      "description": "- 트레이더스 쓱배송\n- text 사용"
+    },
+    "oneday": {
+      "value": "#DCAA78",
+      "type": "color",
+      "description": "- 쓱원데이"
+    },
+    "oneday_dark": {
+      "value": "#A57C58",
+      "type": "color",
+      "description": "- 쓱원데이\n- text 사용"
+    },
+    "post_light": {
+      "value": "#ECEAE4",
+      "type": "color",
+      "description": "- 택배배송"
+    },
+    "post": {
+      "value": "#d6d2c4",
+      "type": "color",
+      "description": "- 택배배송"
+    },
+    "depart_today": {
+      "value": "#6841FF",
+      "type": "color",
+      "description": "- 오늘출발\n"
+    },
+    "mobilecoupon": {
+      "value": "#50e3c2",
+      "type": "color",
+      "description": "- 모바일쿠폰\n- 쓱콘\n- 기프티콘"
+    },
+    "pickup_emart": {
+      "value": "#FFCF02",
+      "type": "color",
+      "description": "- 매장픽업(이마트)\n"
+    },
+    "pickup_department": {
+      "value": "#D6D2C4",
+      "type": "color",
+      "description": "- 매장픽업(백화점)\n"
+    }
+  }
+}

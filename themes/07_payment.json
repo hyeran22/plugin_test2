@@ -1,0 +1,200 @@
+{
+  "07_payment(개발등록x)": {
+    "신용카드": {
+      "SSGCOM카드": {
+        "value": "#363635",
+        "type": "color"
+      },
+      "현대카드": {
+        "value": "#777777",
+        "type": "color"
+      },
+      "신한카드": {
+        "value": "#0B1966",
+        "type": "color"
+      },
+      "삼성카드": {
+        "value": "#006BFF",
+        "type": "color"
+      },
+      "KB국민카드": {
+        "value": "#645B4C",
+        "type": "color"
+      },
+      "카카오뱅크카드": {
+        "value": "#3D537D",
+        "type": "color"
+      },
+      "비씨카드": {
+        "value": "#E83E45",
+        "type": "color"
+      },
+      "씨티카드": {
+        "value": "#233066",
+        "type": "color"
+      },
+      "하나카드": {
+        "value": "#00907F",
+        "type": "color"
+      },
+      "SSGPAY카드": {
+        "value": "#323743",
+        "type": "color"
+      },
+      "롯데카드": {
+        "value": "#e21c24",
+        "type": "color"
+      },
+      "NH농협카드": {
+        "value": "#3270B7",
+        "type": "color"
+      },
+      "우리카드": {
+        "value": "#0963AC",
+        "type": "color"
+      },
+      "IBK기업은행카드": {
+        "value": "#004c9d",
+        "type": "color"
+      },
+      "SC제일은행카드": {
+        "value": "#3277a9",
+        "type": "color"
+      },
+      "수협카드": {
+        "value": "#0068B7",
+        "type": "color"
+      },
+      "광주은행카드": {
+        "value": "#002D6A",
+        "type": "color"
+      },
+      "전북은행카드": {
+        "value": "#002D6A",
+        "type": "color"
+      },
+      "제주은행카드": {
+        "value": "#0B1966",
+        "type": "color"
+      },
+      "이마트e카드(현대카드)": {
+        "value": "#484c56",
+        "type": "color"
+      },
+      "SSGCOM 삼성카드": {
+        "value": "#7E8083",
+        "type": "color"
+      },
+      "SSGCOM카드 에디션2": {
+        "value": "#FC336D",
+        "type": "color"
+      },
+      "토스뱅크": {
+        "value": "#0064FF",
+        "type": "color"
+      }
+    },
+    "은행": {
+      "한국은행": {
+        "value": "#005596",
+        "type": "color"
+      },
+      "KDB산업은행": {
+        "value": "#003C7F",
+        "type": "color"
+      },
+      "IBK기업은행": {
+        "value": "#004c9d",
+        "type": "color"
+      },
+      "KB국민은행": {
+        "value": "#645B4C",
+        "type": "color"
+      },
+      "NH농협은행": {
+        "value": "#0066B3",
+        "type": "color"
+      },
+      "SH수협은행": {
+        "value": "#0068B7",
+        "type": "color"
+      },
+      "우리은행": {
+        "value": "#0067ac",
+        "type": "color"
+      },
+      "SC제일은행": {
+        "value": "#3277A9",
+        "type": "color"
+      },
+      "신한은행": {
+        "value": "#0B1966",
+        "type": "color"
+      },
+      "DGB대구은행": {
+        "value": "#007dc4",
+        "type": "color"
+      },
+      "씨티은행": {
+        "value": "#233066",
+        "type": "color"
+      },
+      "BNK부산은행": {
+        "value": "#E60000",
+        "type": "color"
+      },
+      "광주은행": {
+        "value": "#002d6a",
+        "type": "color"
+      },
+      "제주은행": {
+        "value": "#0B1966",
+        "type": "color"
+      },
+      "전북은행": {
+        "value": "#002d6a",
+        "type": "color"
+      },
+      "BNK경남은행": {
+        "value": "#E60000",
+        "type": "color"
+      },
+      "새마을금고": {
+        "value": "#0B386A",
+        "type": "color"
+      },
+      "신협": {
+        "value": "#0061AE",
+        "type": "color"
+      },
+      "상호저축은행": {
+        "value": "#007360",
+        "type": "color"
+      },
+      "카카오뱅크": {
+        "value": "#1e1e1e",
+        "type": "color"
+      },
+      "케이뱅크": {
+        "value": "#0F005F",
+        "type": "color"
+      },
+      "ABN암로": {
+        "value": "#007872",
+        "type": "color"
+      },
+      "우체국": {
+        "value": "#ed3024",
+        "type": "color"
+      },
+      "KEB하나": {
+        "value": "#00948F",
+        "type": "color"
+      },
+      "토스뱅크": {
+        "value": "#0064FF",
+        "type": "color"
+      }
+    }
+  }
+}

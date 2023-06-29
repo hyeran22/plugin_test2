@@ -1,0 +1,458 @@
+{
+  "01_ssg": {
+    "brand": {
+      "value": "linear-gradient(270deg, #be3ffa 0%, #f43479 40.65%, #f43479 58.41%, #fc6c40 100%)",
+      "type": "color",
+      "description": "- 상세 옵션바 버튼\n- 앱바 터치 색상 (영역 터치 시 잠깐 노출)"
+    },
+    "accent": {
+      "primary_light": {
+        "value": "#FFECEC",
+        "type": "color",
+        "description": "- 정보 강조와 연관된 내용의 배경 영역이 필요한 경우"
+      },
+      "primary": {
+        "value": "#ff3e3e",
+        "type": "color",
+        "description": "1. 정보강조\n- 제일 강조하고자 하는 정보\n- 결정적인 행동을 유도하는 CTA 버튼\n- 강조 효과가 필요한 알림이나 라벨, 뱃지에 포인트\n\n2. 선택된 상태"
+      },
+      "primary_dark": {
+        "value": "#CC2222",
+        "type": "color"
+      },
+      "secondary_light": {
+        "value": "#F5EDFF",
+        "type": "color",
+        "description": "- 정보 강조와 연관된 내용의 배경 영역이 필요한 경우 "
+      },
+      "secondary": {
+        "value": "#8807f3",
+        "type": "color",
+        "description": "-  정보강조 : Primary 컬러 다음으로 우선순위에 적용"
+      },
+      "secondary_dark": {
+        "value": "#6605B6",
+        "type": "color"
+      },
+      "secondary_gradient": {
+        "value": "linear-gradient(90deg, #BE3FFA 0%, #8C0BF4 59.37%, #8807F3 100%)",
+        "type": "color",
+        "description": "- 공통 영역의 툴팁\n- 프로그레스 바"
+      }
+    },
+    "netural": {
+      "white": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "black": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "gray100": {
+        "value": "#fafafa",
+        "type": "color"
+      },
+      "gray150": {
+        "value": "#f5f5f5",
+        "type": "color"
+      },
+      "gray200": {
+        "value": "#f0f0f0",
+        "type": "color"
+      },
+      "gray300": {
+        "value": "#e5e5e5",
+        "type": "color"
+      },
+      "gray350": {
+        "value": "#cfcfcf",
+        "type": "color"
+      },
+      "gray400": {
+        "value": "#969696",
+        "type": "color"
+      },
+      "gray500": {
+        "value": "#888888",
+        "type": "color"
+      },
+      "gray600": {
+        "value": "#777777",
+        "type": "color"
+      },
+      "gray700": {
+        "value": "#666666",
+        "type": "color"
+      },
+      "gray800": {
+        "value": "#444444",
+        "type": "color"
+      },
+      "gray900": {
+        "value": "#222222",
+        "type": "color"
+      },
+      "dim": {
+        "black_alpha95": {
+          "value": "#000000f2",
+          "type": "color",
+          "description": "- 상품 모듈 매장 픽업 드롭다운"
+        },
+        "black_alpha80": {
+          "value": "#000000cc",
+          "type": "color",
+          "description": "- 상품 상세 쓱렌즈 버튼  \n- 몰이동 레이어"
+        },
+        "black_alpha60": {
+          "value": "#00000099",
+          "type": "color",
+          "description": "- 토스트 팝업 배경색\n- 기본 팝업/ 바텀 시트 레이어"
+        },
+        "black_alpha45": {
+          "value": "#00000073",
+          "type": "color",
+          "description": "- 배너 컨트롤러, 페이지네이션\n- 상품 유닛 이미지 위에 올라가는 버튼"
+        },
+        "black_alpha20": {
+          "value": "#00000033",
+          "type": "color",
+          "description": "- 밝은 영역에 적용했을때 버튼이 너무 어두워보이는 경우 (ex. 메인 롤링배너 좌측 동영상 버튼)"
+        },
+        "black_alpha3": {
+          "value": "#00000008",
+          "type": "color",
+          "description": "- 상품, 배너 이미지에 영역 구분이 필요한 경우"
+        }
+      }
+    },
+    "semantic": {
+      "warning": {
+        "value": "#FF5F04",
+        "type": "color",
+        "description": "- 안내 문구 중 경고의 성격을 띄고 있는 문구\n- 에러를 상태를 나타내는 경우"
+      },
+      "warning_loss": {
+        "value": "#ff3e3e",
+        "type": "color",
+        "description": "- 경고 문구중 금전적인 손해가 발생하는 부분"
+      },
+      "positive": {
+        "value": "#178AFF",
+        "type": "color",
+        "description": "- 긍정적인 의미의 컬러\n- 링크버튼(텍스트버튼)"
+      },
+      "success": {
+        "value": "#07A740",
+        "type": "color",
+        "description": "- 성공 의미의 컬러"
+      }
+    }
+  },
+  "space(gridsystem)": {
+    "1": {
+      "value": "1px",
+      "type": "spacing",
+      "description": "space_0.25, \n0.063rem"
+    },
+    "2": {
+      "value": "2px",
+      "type": "spacing",
+      "description": "space_0.5, \n0.125rem"
+    },
+    "4": {
+      "value": "4px",
+      "type": "spacing",
+      "description": "space_1,\n0.25rem"
+    },
+    "6": {
+      "value": "6px",
+      "type": "spacing",
+      "description": "space_1.5, \n0.375rem"
+    },
+    "8": {
+      "value": "8px",
+      "type": "spacing",
+      "description": "space_2,\n0.5rem"
+    },
+    "10": {
+      "value": "10px",
+      "type": "spacing",
+      "description": "space_2.5, \n0.625rem"
+    },
+    "12": {
+      "value": "12px",
+      "type": "spacing",
+      "description": "space_3,\n0.75rem"
+    },
+    "16": {
+      "value": "16px",
+      "type": "spacing",
+      "description": "space_4, \n1rem"
+    },
+    "20": {
+      "value": "20px",
+      "type": "spacing",
+      "description": "space_5\n1.25rem"
+    },
+    "24": {
+      "value": "24px",
+      "type": "spacing",
+      "description": "space_6,\n1.5rem"
+    },
+    "28": {
+      "value": "28px",
+      "type": "spacing",
+      "description": "space_7,\n1.75rem"
+    },
+    "30": {
+      "value": "30px",
+      "type": "spacing",
+      "description": "space_7.5,\n1.875rem"
+    },
+    "32": {
+      "value": "32px",
+      "type": "spacing",
+      "description": "space_8,\n2rem"
+    },
+    "40": {
+      "value": "40px",
+      "type": "spacing",
+      "description": "space_10\n2.5rem"
+    },
+    "50": {
+      "value": "50px",
+      "type": "spacing",
+      "description": "space_12.5,\n3.125rem"
+    },
+    "60": {
+      "value": "60px",
+      "type": "spacing",
+      "description": "space_15,\n3.75rem"
+    }
+  },
+  "fontfamily": {
+    "SSG comb": {
+      "value": "SSG comb",
+      "type": "fontFamilies",
+      "description": "국문(Apple SD Gothic Neo) + 영문,숫자(Roboto) 조합하여 만든 폰트"
+    },
+    "Rubik-Number": {
+      "value": "Rubik-Number",
+      "type": "fontFamilies",
+      "description": "신세계백화점 금액, 할인율 표기"
+    },
+    "Didot": {
+      "value": "Didot",
+      "type": "fontFamilies",
+      "description": "신세계백화점 타이틀영역 영문,숫자는 Didot폰트로 표기 "
+    }
+  },
+  "fontweight": {
+    "regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "medium": {
+      "value": "Medium",
+      "type": "fontWeights"
+    },
+    "bold": {
+      "value": "Bold",
+      "type": "fontWeights"
+    }
+  },
+  "fontsize": {
+    "3xs": {
+      "value": "10",
+      "type": "fontSizes",
+      "description": "0.625rem"
+    },
+    "2xs": {
+      "value": "11",
+      "type": "fontSizes",
+      "description": "0.688rem"
+    },
+    "xs": {
+      "value": "12",
+      "type": "fontSizes",
+      "description": "0.75rem"
+    },
+    "sm": {
+      "value": "13",
+      "type": "fontSizes",
+      "description": "0.813rem"
+    },
+    "md": {
+      "value": "14",
+      "type": "fontSizes",
+      "description": "0.875rem"
+    },
+    "lg": {
+      "value": "15",
+      "type": "fontSizes",
+      "description": "0.938rem"
+    },
+    "xl": {
+      "value": "16",
+      "type": "fontSizes",
+      "description": "1rem"
+    },
+    "2xl": {
+      "value": "18",
+      "type": "fontSizes",
+      "description": "1.125rem"
+    },
+    "3xl": {
+      "value": "20",
+      "type": "fontSizes",
+      "description": "1.25rem"
+    },
+    "4xl": {
+      "value": "24",
+      "type": "fontSizes",
+      "description": "1.5rem"
+    },
+    "5xl": {
+      "value": "28",
+      "type": "fontSizes",
+      "description": "1.75rem"
+    },
+    "6xl": {
+      "value": "30",
+      "type": "fontSizes",
+      "description": "1.875rem"
+    },
+    "7xl": {
+      "value": "34",
+      "type": "fontSizes",
+      "description": "2.125rem"
+    },
+    "8xl": {
+      "value": "40",
+      "type": "fontSizes",
+      "description": "2.5rem"
+    }
+  },
+  "textdecoration": {
+    "none": {
+      "value": "none",
+      "type": "textDecoration"
+    },
+    "underline": {
+      "value": "underline",
+      "type": "textDecoration"
+    },
+    "line-through": {
+      "value": "line-through",
+      "type": "textDecoration"
+    }
+  },
+  "radius": {
+    "2": {
+      "value": "2px",
+      "type": "borderRadius"
+    },
+    "4": {
+      "value": "4px",
+      "type": "borderRadius"
+    },
+    "6": {
+      "value": "6px",
+      "type": "borderRadius"
+    },
+    "8": {
+      "value": "8px",
+      "type": "borderRadius"
+    },
+    "10": {
+      "value": "10px",
+      "type": "borderRadius"
+    },
+    "16": {
+      "value": "16px",
+      "type": "borderRadius"
+    },
+    "20": {
+      "value": "20px",
+      "type": "borderRadius"
+    },
+    "none": {
+      "value": "0px",
+      "type": "borderRadius"
+    }
+  },
+  "icon_size": {
+    "2xs": {
+      "value": "12",
+      "type": "sizing",
+      "description": "- Stroke weight : 0.6\n- Corners : 1.8"
+    },
+    "xs": {
+      "value": "16",
+      "type": "sizing",
+      "description": "- Stroke weight : 0.8\n- Corners : 2.4"
+    },
+    "sm": {
+      "value": "20",
+      "type": "sizing",
+      "description": "- Stroke weight : 1\n- Corners : 3"
+    },
+    "md": {
+      "value": "24",
+      "type": "sizing",
+      "description": "- Stroke weight : 1.2\n- Corners : 3.6"
+    },
+    "lg": {
+      "value": "28",
+      "type": "sizing",
+      "description": "- Stroke weight : 1.4\n- Corners : 4.2"
+    },
+    "xl": {
+      "value": "32",
+      "type": "sizing"
+    }
+  },
+  "border_width": {
+    "1": {
+      "value": "1px",
+      "type": "borderWidth",
+      "description": "1px solid"
+    },
+    "2": {
+      "value": "2px",
+      "type": "borderWidth",
+      "description": "2px solid"
+    },
+    "none": {
+      "value": "0",
+      "type": "borderWidth"
+    }
+  },
+  "opacity": {
+    "3": {
+      "value": "3%",
+      "type": "opacity"
+    },
+    "20": {
+      "value": "20%",
+      "type": "opacity"
+    },
+    "45": {
+      "value": "45%",
+      "type": "opacity"
+    },
+    "60": {
+      "value": "60%",
+      "type": "opacity"
+    },
+    "80": {
+      "value": "80%",
+      "type": "opacity"
+    },
+    "95": {
+      "value": "95%",
+      "type": "opacity"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "06_promotion(개발등록x)": {
+    "ssgday_primary": {
+      "value": "#E60096",
+      "type": "color",
+      "description": "- 쓱데이"
+    },
+    "ssgday_secondary1": {
+      "value": "#FF7373",
+      "type": "color",
+      "description": "- 쓱데이"
+    },
+    "ssgday_secondary2": {
+      "value": "#FF4137",
+      "type": "color",
+      "description": "- 쓱데이"
+    }
+  }
+}

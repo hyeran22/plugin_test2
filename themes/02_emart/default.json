@@ -1,0 +1,1007 @@
+{
+  "content": {
+    "headline": {
+      "24b": {
+        "value": {
+          "fontFamily": "{fontfamily.SSG comb}",
+          "fontWeight": "{fontweight.bold}",
+          "fontSize": "{fontsize.4xl}"
+        },
+        "type": "typography"
+      },
+      "20b": {
+        "value": {
+          "fontFamily": "{fontfamily.SSG comb}",
+          "fontWeight": "{fontweight.bold}",
+          "fontSize": "{fontsize.3xl}"
+        },
+        "type": "typography"
+      }
+    },
+    "subtitle": {
+      "18b": {
+        "value": {
+          "fontFamily": "{fontfamily.SSG comb}",
+          "fontWeight": "{fontweight.bold}",
+          "fontSize": "{fontsize.2xl}"
+        },
+        "type": "typography"
+      },
+      "16b": {
+        "value": {
+          "fontFamily": "{fontfamily.SSG comb}",
+          "fontWeight": "{fontweight.bold}",
+          "fontSize": "{fontsize.xl}"
+        },
+        "type": "typography"
+      },
+      "16m": {
+        "value": {
+          "fontFamily": "{fontfamily.SSG comb}",
+          "fontWeight": "{fontweight.medium}",
+          "fontSize": "{fontsize.xl}"
+        },
+        "type": "typography"
+      }
+    },
+    "body": {
+      "12b": {
+        "value": {
+          "fontFamily": "{fontfamily.SSG comb}",
+          "fontWeight": "{fontweight.bold}",
+          "fontSize": "{fontsize.xs}"
+        },
+        "type": "typography"
+      },
+      "12r": {
+        "value": {
+          "fontFamily": "{fontfamily.SSG comb}",
+          "fontWeight": "{fontweight.regular}",
+          "fontSize": "{fontsize.xs}"
+        },
+        "type": "typography"
+      },
+      "13b": {
+        "value": {
+          "fontFamily": "{fontfamily.SSG comb}",
+          "fontWeight": "{fontweight.bold}",
+          "fontSize": "{fontsize.sm}"
+        },
+        "type": "typography"
+      },
+      "13r": {
+        "value": {
+          "fontFamily": "{fontfamily.SSG comb}",
+          "fontWeight": "{fontweight.regular}",
+          "fontSize": "{fontsize.sm}"
+        },
+        "type": "typography"
+      },
+      "14b": {
+        "value": {
+          "fontFamily": "{fontfamily.SSG comb}",
+          "fontWeight": "{fontweight.bold}",
+          "fontSize": "{fontsize.md}"
+        },
+        "type": "typography"
+      },
+      "14r": {
+        "value": {
+          "fontFamily": "{fontfamily.SSG comb}",
+          "fontWeight": "{fontweight.regular}",
+          "fontSize": "{fontsize.md}"
+        },
+        "type": "typography"
+      },
+      "15b": {
+        "value": {
+          "fontFamily": "{fontfamily.SSG comb}",
+          "fontWeight": "{fontweight.bold}",
+          "fontSize": "{fontsize.lg}"
+        },
+        "type": "typography"
+      },
+      "15r": {
+        "value": {
+          "fontFamily": "{fontfamily.SSG comb}",
+          "fontWeight": "{fontweight.regular}",
+          "fontSize": "{fontsize.lg}"
+        },
+        "type": "typography"
+      }
+    }
+  },
+  "boxbutton": {
+    "rect": {
+      "2xs": {
+        "value": {
+          "height": "{button_height.2xs}",
+          "horizontalPadding": "{button.horizontal.2xs}"
+        },
+        "type": "composition"
+      },
+      "xs": {
+        "value": {
+          "height": "{button_height.xs}",
+          "horizontalPadding": "{button.horizontal.xs}"
+        },
+        "type": "composition"
+      },
+      "sm": {
+        "value": {
+          "height": "{button_height.sm}",
+          "horizontalPadding": "{button.horizontal.sm}"
+        },
+        "type": "composition"
+      },
+      "md": {
+        "value": {
+          "height": "{button_height.md}",
+          "horizontalPadding": "{button.horizontal.md}"
+        },
+        "type": "composition"
+      },
+      "lg": {
+        "value": {
+          "height": "{button_height.lg}",
+          "horizontalPadding": "{button.horizontal.lg}"
+        },
+        "type": "composition"
+      },
+      "xl": {
+        "value": {
+          "height": "{button_height.xl}",
+          "horizontalPadding": "{button.horizontal.xl}"
+        },
+        "type": "composition"
+      },
+      "2xl": {
+        "value": {
+          "height": "{button_height.2xl}",
+          "horizontalPadding": "{button.horizontal.2xl}"
+        },
+        "type": "composition"
+      },
+      "3xl": {
+        "value": {
+          "height": "{button_height.3xl}",
+          "horizontalPadding": "{button.horizontal.2xl}"
+        },
+        "type": "composition"
+      }
+    },
+    "round": {
+      "2xs": {
+        "value": {
+          "height": "{button_height.2xs}",
+          "horizontalPadding": "{button.horizontal.2xs}",
+          "borderRadius": "{button.round.emart.2xs}"
+        },
+        "type": "composition"
+      },
+      "xs": {
+        "value": {
+          "height": "{button_height.xs}",
+          "horizontalPadding": "{button.horizontal.xs}",
+          "borderRadius": "{button.round.emart.xs}"
+        },
+        "type": "composition"
+      },
+      "sm": {
+        "value": {
+          "height": "{button_height.sm}",
+          "horizontalPadding": "{button.horizontal.sm}",
+          "borderRadius": "{button.round.emart.sm}"
+        },
+        "type": "composition"
+      },
+      "md": {
+        "value": {
+          "height": "{button_height.md}",
+          "horizontalPadding": "{button.horizontal.md}",
+          "borderRadius": "{button.round.emart.md}"
+        },
+        "type": "composition"
+      },
+      "lg": {
+        "value": {
+          "height": "{button_height.lg}",
+          "horizontalPadding": "{button.horizontal.lg}",
+          "borderRadius": "{button.round.emart.lg}"
+        },
+        "type": "composition"
+      },
+      "xl": {
+        "value": {
+          "height": "{button_height.xl}",
+          "horizontalPadding": "{button.horizontal.xl}",
+          "borderRadius": "{button.round.emart.xl}"
+        },
+        "type": "composition"
+      },
+      "2xl": {
+        "value": {
+          "height": "{button_height.2xl}",
+          "horizontalPadding": "{button.horizontal.2xl}",
+          "borderRadius": "{button.round.emart.2xl}"
+        },
+        "type": "composition"
+      },
+      "3xl": {
+        "value": {
+          "height": "{button_height.3xl}",
+          "horizontalPadding": "{button.horizontal.3xl}",
+          "borderRadius": "{button.round.emart.3xl}"
+        },
+        "type": "composition"
+      }
+    },
+    "oval": {
+      "2xs": {
+        "value": {
+          "height": "{button_height.2xs}",
+          "horizontalPadding": "{button.horizontal.2xs}",
+          "borderRadius": "{ssg_button.oval.2xs}"
+        },
+        "type": "composition"
+      },
+      "xs": {
+        "value": {
+          "height": "{button_height.xs}",
+          "horizontalPadding": "{button.horizontal.xs}",
+          "borderRadius": "{ssg_button.oval.xs}"
+        },
+        "type": "composition"
+      },
+      "sm": {
+        "value": {
+          "height": "{button_height.sm}",
+          "horizontalPadding": "{button.horizontal.sm}",
+          "borderRadius": "{ssg_button.oval.sm}"
+        },
+        "type": "composition"
+      },
+      "md": {
+        "value": {
+          "height": "{button_height.md}",
+          "horizontalPadding": "{button.horizontal.md}",
+          "borderRadius": "{ssg_button.oval.md}"
+        },
+        "type": "composition"
+      },
+      "lg": {
+        "value": {
+          "height": "{button_height.lg}",
+          "horizontalPadding": "{button.horizontal.lg}",
+          "borderRadius": "{ssg_button.oval.lg}"
+        },
+        "type": "composition"
+      },
+      "xl": {
+        "value": {
+          "height": "{button_height.xl}",
+          "horizontalPadding": "{button.horizontal.xl}",
+          "borderRadius": "{ssg_button.oval.xl}"
+        },
+        "type": "composition"
+      },
+      "2xl": {
+        "value": {
+          "height": "{button_height.2xl}",
+          "horizontalPadding": "{button.horizontal.2xl}",
+          "borderRadius": "{ssg_button.oval.2xl}"
+        },
+        "type": "composition"
+      },
+      "3xl": {
+        "value": {
+          "height": "{button_height.3xl}",
+          "horizontalPadding": "{button.horizontal.3xl}",
+          "borderRadius": "{ssg_button.oval.3xl}"
+        },
+        "type": "composition"
+      }
+    }
+  },
+  "iconbutton": {
+    "rect": {
+      "2xs": {
+        "value": {
+          "sizing": "{button_height.2xs}",
+          "spacing": "{button.spacing.2xs}"
+        },
+        "type": "composition"
+      },
+      "xs": {
+        "value": {
+          "sizing": "{button_height.xs}",
+          "spacing": "{button.spacing.xs}"
+        },
+        "type": "composition"
+      },
+      "sm": {
+        "value": {
+          "sizing": "{button_height.xs}",
+          "spacing": "{button.spacing.sm}"
+        },
+        "type": "composition"
+      },
+      "md": {
+        "value": {
+          "sizing": "{button_height.md}",
+          "spacing": "{button.spacing.md}"
+        },
+        "type": "composition"
+      },
+      "lg": {
+        "value": {
+          "sizing": "{button_height.lg}",
+          "spacing": "{button.spacing.lg}"
+        },
+        "type": "composition"
+      },
+      "xl": {
+        "value": {
+          "sizing": "{button_height.xl}",
+          "spacing": "{button.spacing.xl}"
+        },
+        "type": "composition"
+      },
+      "2xl": {
+        "value": {
+          "sizing": "{button_height.2xl}",
+          "spacing": "{button.spacing.2xl}"
+        },
+        "type": "composition"
+      }
+    },
+    "round": {
+      "2xs": {
+        "value": {
+          "sizing": "{button_height.2xs}",
+          "spacing": "{button.spacing.2xs}",
+          "borderRadius": "{button.round.emart.2xs}"
+        },
+        "type": "composition"
+      },
+      "xs": {
+        "value": {
+          "sizing": "{button_height.xs}",
+          "spacing": "{button.spacing.xs}",
+          "borderRadius": "{button.round.emart.xs}"
+        },
+        "type": "composition"
+      },
+      "sm": {
+        "value": {
+          "sizing": "{button_height.sm}",
+          "spacing": "{button.spacing.sm}",
+          "borderRadius": "{button.round.emart.sm}"
+        },
+        "type": "composition"
+      },
+      "md": {
+        "value": {
+          "sizing": "{button_height.md}",
+          "spacing": "{button.spacing.md}",
+          "borderRadius": "{button.round.emart.md}"
+        },
+        "type": "composition"
+      },
+      "lg": {
+        "value": {
+          "sizing": "{button_height.lg}",
+          "spacing": "{button.spacing.lg}",
+          "borderRadius": "{button.round.emart.lg}"
+        },
+        "type": "composition"
+      },
+      "xl": {
+        "value": {
+          "sizing": "{button_height.xl}",
+          "spacing": "{button.spacing.xl}",
+          "borderRadius": "{button.round.emart.xl}"
+        },
+        "type": "composition"
+      },
+      "2xl": {
+        "value": {
+          "sizing": "{button_height.2xl}",
+          "spacing": "{button.spacing.2xl}",
+          "borderRadius": "{button.round.emart.2xl}"
+        },
+        "type": "composition"
+      }
+    },
+    "oval": {
+      "2xs": {
+        "value": {
+          "sizing": "{button_height.2xs}",
+          "spacing": "{button.spacing.2xs}",
+          "borderRadius": "{ssg_button.oval.2xs}"
+        },
+        "type": "composition"
+      },
+      "xs": {
+        "value": {
+          "sizing": "{button_height.xs}",
+          "spacing": "{button.spacing.xs}",
+          "borderRadius": "{ssg_button.oval.xs}"
+        },
+        "type": "composition"
+      },
+      "sm": {
+        "value": {
+          "sizing": "{button_height.sm}",
+          "spacing": "{button.spacing.sm}",
+          "borderRadius": "{ssg_button.oval.sm}"
+        },
+        "type": "composition"
+      },
+      "md": {
+        "value": {
+          "sizing": "{button_height.md}",
+          "spacing": "{button.spacing.md}",
+          "borderRadius": "{ssg_button.oval.md}"
+        },
+        "type": "composition"
+      },
+      "lg": {
+        "value": {
+          "sizing": "{button_height.lg}",
+          "spacing": "{button.spacing.lg}",
+          "borderRadius": "{ssg_button.oval.lg}"
+        },
+        "type": "composition"
+      },
+      "xl": {
+        "value": {
+          "sizing": "{button_height.xl}",
+          "spacing": "{button.spacing.xl}",
+          "borderRadius": "{ssg_button.oval.xl}"
+        },
+        "type": "composition"
+      },
+      "2xl": {
+        "value": {
+          "sizing": "{button_height.2xl}",
+          "spacing": "{button.spacing.2xl}",
+          "borderRadius": "{ssg_button.oval.2xl}"
+        },
+        "type": "composition"
+      }
+    }
+  },
+  "textbutton": {
+    "default": {
+      "2xs": {
+        "value": {
+          "height": "14"
+        },
+        "type": "composition"
+      },
+      "xs": {
+        "value": {
+          "height": "16"
+        },
+        "type": "composition"
+      },
+      "sm": {
+        "value": {
+          "height": "18"
+        },
+        "type": "composition"
+      },
+      "md": {
+        "value": {
+          "height": "20"
+        },
+        "type": "composition"
+      },
+      "lg": {
+        "value": {
+          "height": "22"
+        },
+        "type": "composition"
+      },
+      "xl": {
+        "value": {
+          "height": "24"
+        },
+        "type": "composition"
+      },
+      "2xl": {
+        "value": {
+          "height": "26"
+        },
+        "type": "composition"
+      }
+    },
+    "link": {
+      "2xs": {
+        "value": {
+          "height": "13"
+        },
+        "type": "composition"
+      },
+      "xs": {
+        "value": {
+          "height": "14"
+        },
+        "type": "composition"
+      },
+      "sm": {
+        "value": {
+          "height": "16"
+        },
+        "type": "composition"
+      },
+      "md": {
+        "value": {
+          "height": "17"
+        },
+        "type": "composition"
+      },
+      "lg": {
+        "value": {
+          "height": "18"
+        },
+        "type": "composition"
+      },
+      "xl": {
+        "value": {
+          "height": "19"
+        },
+        "type": "composition"
+      },
+      "2xl": {
+        "value": {
+          "height": "22"
+        },
+        "type": "composition"
+      }
+    }
+  },
+  "space(gridsystem)": {
+    "1": {
+      "value": "1px",
+      "type": "spacing",
+      "description": "space_0.25, \n0.063rem"
+    },
+    "2": {
+      "value": "2px",
+      "type": "spacing",
+      "description": "space_0.5, \n0.125rem"
+    },
+    "4": {
+      "value": "4px",
+      "type": "spacing",
+      "description": "space_1,\n0.25rem"
+    },
+    "6": {
+      "value": "6px",
+      "type": "spacing",
+      "description": "space_1.5, \n0.375rem"
+    },
+    "8": {
+      "value": "8px",
+      "type": "spacing",
+      "description": "space_2,\n0.5rem"
+    },
+    "10": {
+      "value": "10px",
+      "type": "spacing",
+      "description": "space_2.5, \n0.625rem"
+    },
+    "12": {
+      "value": "12px",
+      "type": "spacing",
+      "description": "space_3,\n0.75rem"
+    },
+    "16": {
+      "value": "16px",
+      "type": "spacing",
+      "description": "space_4, \n1rem"
+    },
+    "20": {
+      "value": "20px",
+      "type": "spacing",
+      "description": "space_5\n1.25rem"
+    },
+    "24": {
+      "value": "24px",
+      "type": "spacing",
+      "description": "space_6,\n1.5rem"
+    },
+    "28": {
+      "value": "28px",
+      "type": "spacing",
+      "description": "space_7,\n1.75rem"
+    },
+    "30": {
+      "value": "30px",
+      "type": "spacing",
+      "description": "space_7.5,\n1.875rem"
+    },
+    "32": {
+      "value": "32px",
+      "type": "spacing",
+      "description": "space_8,\n2rem"
+    },
+    "40": {
+      "value": "40px",
+      "type": "spacing",
+      "description": "space_10\n2.5rem"
+    },
+    "50": {
+      "value": "50px",
+      "type": "spacing",
+      "description": "space_12.5,\n3.125rem"
+    },
+    "60": {
+      "value": "60px",
+      "type": "spacing",
+      "description": "space_15,\n3.75rem"
+    }
+  },
+  "fontfamily": {
+    "SSG comb": {
+      "value": "SSG comb",
+      "type": "fontFamilies",
+      "description": "국문(Apple SD Gothic Neo) + 영문,숫자(Roboto) 조합하여 만든 폰트"
+    }
+  },
+  "fontweight": {
+    "regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "medium": {
+      "value": "Medium",
+      "type": "fontWeights"
+    },
+    "bold": {
+      "value": "Bold",
+      "type": "fontWeights"
+    }
+  },
+  "font-size(공통)": {
+    "3xs": {
+      "value": "10",
+      "type": "fontSizes",
+      "description": "0.625rem"
+    },
+    "2xs": {
+      "value": "11",
+      "type": "fontSizes",
+      "description": "0.688rem"
+    },
+    "xs": {
+      "value": "12",
+      "type": "fontSizes",
+      "description": "0.75rem"
+    },
+    "sm": {
+      "value": "13",
+      "type": "fontSizes",
+      "description": "0.813rem"
+    },
+    "md": {
+      "value": "14",
+      "type": "fontSizes",
+      "description": "0.875rem"
+    },
+    "lg": {
+      "value": "15",
+      "type": "fontSizes",
+      "description": "0.938rem"
+    },
+    "xl": {
+      "value": "16",
+      "type": "fontSizes",
+      "description": "1rem"
+    },
+    "2xl": {
+      "value": "18",
+      "type": "fontSizes",
+      "description": "1.125rem"
+    },
+    "3xl": {
+      "value": "20",
+      "type": "fontSizes",
+      "description": "1.25rem"
+    },
+    "4xl": {
+      "value": "24",
+      "type": "fontSizes",
+      "description": "1.5rem"
+    },
+    "5xl": {
+      "value": "28",
+      "type": "fontSizes",
+      "description": "1.75rem"
+    },
+    "6xl": {
+      "value": "30",
+      "type": "fontSizes",
+      "description": "1.875rem"
+    },
+    "7xl": {
+      "value": "34",
+      "type": "fontSizes",
+      "description": "2.125rem"
+    },
+    "8xl": {
+      "value": "40",
+      "type": "fontSizes",
+      "description": "2.5rem"
+    }
+  },
+  "textdecoration(공통)": {
+    "none": {
+      "value": "none",
+      "type": "textDecoration"
+    },
+    "underline": {
+      "value": "underline",
+      "type": "textDecoration"
+    },
+    "line-through": {
+      "value": "line-through",
+      "type": "textDecoration"
+    }
+  },
+  "radius": {
+    "2": {
+      "value": "2px",
+      "type": "borderRadius"
+    },
+    "4": {
+      "value": "4px",
+      "type": "borderRadius"
+    },
+    "6": {
+      "value": "6px",
+      "type": "borderRadius"
+    },
+    "8": {
+      "value": "8px",
+      "type": "borderRadius"
+    },
+    "10": {
+      "value": "10px",
+      "type": "borderRadius"
+    },
+    "16": {
+      "value": "16px",
+      "type": "borderRadius"
+    },
+    "20": {
+      "value": "20px",
+      "type": "borderRadius"
+    },
+    "none": {
+      "value": "0px",
+      "type": "borderRadius"
+    }
+  },
+  "icon_size": {
+    "2xs": {
+      "value": "12",
+      "type": "sizing",
+      "description": "- Stroke weight : 0.6\n- Corners : 1.8"
+    },
+    "xs": {
+      "value": "16",
+      "type": "sizing",
+      "description": "- Stroke weight : 0.8\n- Corners : 2.4"
+    },
+    "sm": {
+      "value": "20",
+      "type": "sizing",
+      "description": "- Stroke weight : 1\n- Corners : 3"
+    },
+    "md": {
+      "value": "24",
+      "type": "sizing",
+      "description": "- Stroke weight : 1.2\n- Corners : 3.6"
+    },
+    "lg": {
+      "value": "28",
+      "type": "sizing",
+      "description": "- Stroke weight : 1.4\n- Corners : 4.2"
+    },
+    "xl": {
+      "value": "32",
+      "type": "sizing"
+    }
+  },
+  "border_width": {
+    "1": {
+      "value": "1px",
+      "type": "borderWidth",
+      "description": "1px solid"
+    },
+    "2": {
+      "value": "2px",
+      "type": "borderWidth",
+      "description": "2px solid"
+    },
+    "none": {
+      "value": "0",
+      "type": "borderWidth"
+    }
+  },
+  "opacity": {
+    "3": {
+      "value": "3%",
+      "type": "opacity"
+    },
+    "20": {
+      "value": "20%",
+      "type": "opacity"
+    },
+    "45": {
+      "value": "45%",
+      "type": "opacity"
+    },
+    "60": {
+      "value": "60%",
+      "type": "opacity"
+    },
+    "80": {
+      "value": "80%",
+      "type": "opacity"
+    },
+    "95": {
+      "value": "95%",
+      "type": "opacity"
+    }
+  },
+  "02_emart": {
+    "brand": {
+      "value": "#ffd040",
+      "type": "color"
+    },
+    "accent": {
+      "primary_light": {
+        "value": "#FFEBE9",
+        "type": "color"
+      },
+      "primary": {
+        "value": "#FF3B20",
+        "type": "color",
+        "description": "1. 정보강조\n- 제일 강조하고자 하는 정보\n- 결정적인 행동을 유도하는 CTA 버튼\n- 강조 효과가 필요한 알림이나 라벨, 뱃지에 포인트\n\n2. 선택된 상태"
+      },
+      "secondary1_light": {
+        "value": "#E6EBFE",
+        "type": "color"
+      },
+      "secondary1": {
+        "value": "#0038F0",
+        "type": "color",
+        "description": "-  정보강조 : Primary 컬러 다음으로 우선순위에 적용"
+      },
+      "secondary2_light": {
+        "value": "#E7F5EF",
+        "type": "color"
+      },
+      "secondary2": {
+        "value": "#0B9B5B",
+        "type": "color"
+      },
+      "tertiary": {
+        "value": "#FFEA3C",
+        "type": "color"
+      }
+    },
+    "netural": {
+      "white": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "black": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "gray100": {
+        "value": "#FAFBFC",
+        "type": "color"
+      },
+      "gray150": {
+        "value": "#F3F5F7",
+        "type": "color"
+      },
+      "gray200": {
+        "value": "#EDF0F3",
+        "type": "color"
+      },
+      "gray300": {
+        "value": "#E1E5E9",
+        "type": "color"
+      },
+      "gray350": {
+        "value": "#C9CFD5",
+        "type": "color"
+      },
+      "gray400": {
+        "value": "#8B96A1",
+        "type": "color"
+      },
+      "gray500": {
+        "value": "#7B8895",
+        "type": "color"
+      },
+      "gray600": {
+        "value": "#697785",
+        "type": "color"
+      },
+      "gray700": {
+        "value": "#5A6672",
+        "type": "color"
+      },
+      "gray800": {
+        "value": "#383F45",
+        "type": "color"
+      },
+      "gray900": {
+        "value": "#262B2E",
+        "type": "color"
+      },
+      "dim": {
+        "black_alpha95": {
+          "value": "#000000f2",
+          "type": "color",
+          "description": "- 상품 모듈 매장 픽업 드롭다운"
+        },
+        "black_alpha80": {
+          "value": "#000000cc",
+          "type": "color",
+          "description": "- 상품 상세 쓱렌즈 버튼  \n- 몰이동 레이어"
+        },
+        "black_alpha60": {
+          "value": "#00000099",
+          "type": "color",
+          "description": "- 토스트 팝업 배경색\n- 기본 팝업/ 바텀 시트 레이어"
+        },
+        "black_alpha45": {
+          "value": "#00000073",
+          "type": "color",
+          "description": "- 배너 컨트롤러, 페이지네이션\n- 상품 유닛 이미지 위에 올라가는 버튼"
+        },
+        "black_alpha20": {
+          "value": "#00000033",
+          "type": "color",
+          "description": "- 밝은 영역에 적용했을때 버튼이 너무 어두워보이는 경우 (ex. 메인 롤링배너 좌측 동영상 버튼)"
+        },
+        "black_alpha3": {
+          "value": "#00000008",
+          "type": "color",
+          "description": "- 상품, 배너 이미지에 영역 구분이 필요한 경우"
+        }
+      }
+    },
+    "semantic": {
+      "warning": {
+        "value": "#FF5F04",
+        "type": "color",
+        "description": "- 안내 문구 중 경고의 성격을 띄고 있는 문구\n- 에러를 상태를 나타내는 경우"
+      },
+      "warning_loss": {
+        "value": "#ff3e3e",
+        "type": "color",
+        "description": "- 경고 문구중 금전적인 손해가 발생하는 부분"
+      },
+      "positive": {
+        "value": "#178AFF",
+        "type": "color",
+        "description": "- 긍정적인 의미의 컬러\n- 링크버튼(텍스트버튼)"
+      },
+      "success": {
+        "value": "#07A740",
+        "type": "color",
+        "description": "- 성공 의미의 컬러"
+      }
+    }
+  }
+}
